@@ -1,0 +1,2043 @@
+﻿text_info id: 701323	方法一	方法 & 一
+text_info id: 718102	2016 & 年	2016年
+text_info id: 170791	过点	过 & 点
+text_info id: 744930	初步 & 尝试	初步尝试
+text_info id: 709603	深入 & 探究	深入探究
+text_info id: 744930	类比 & 发现	类比发现
+text_info id: 709603	问题 & 探究	问题探究
+text_info id: 696700	一 & 个	一个
+text_info id: 113080	一 & 个法向量	一个 & 法 & 向量
+text_info id: 688064	一 & 动点	一动 & 点
+text_info id: 308110	一 & 定点	一定 & 点
+text_info id: 162128	一 & 直角边	一直 & 角 & 边
+text_info id: 309073	一一对应	一 & 一 & 对 & 应
+text_info id: 108359	一个二元	一个 & 二元
+text_info id: 730941	一个数	一个 & 数
+text_info id: 293014	一个根	一个 & 根
+text_info id: 763637	一个点	一个 & 点
+text_info id: 88645	一个角	一个 & 角
+text_info id: 210436	一个解	一个 & 解
+text_info id: 108710	一串	一 & 串
+text_info id: 309073	一位	一 & 位
+text_info id: 684287	一侧	一 & 侧
+text_info id: 247422	一元二次方程	一 & 元 & 二 & 次 & 方程
+text_info id: 731132	一元函数	一 & 元 & 函数
+text_info id: 308691	一切 & 线	一 & 切线
+text_info id: 674025	一列数	一 & 列 & 数
+text_info id: 157491	一则	一 & 则
+text_info id: 238950	一到	一 & 到
+text_info id: 665678	一副	一 & 副
+text_info id: 238714	一动	一 & 动
+text_info id: 161828	一千克	一 & 千克
+text_info id: 700012	一可得	一 & 可 & 得
+text_info id: 765517	一周	一 & 周
+text_info id: 744930	一块	一 & 块
+text_info id: 157485	一定 & 点	一 & 定点
+text_info id: 737336	一定是	一定 & 是
+text_info id: 712141	一定的	一定 & 的
+text_info id: 285855	一对	一 & 对
+text_info id: 244489	一座	一 & 座
+text_info id: 723341	一张	一 & 张
+text_info id: 288055	一支	一 & 支
+text_info id: 247763	一束	一 & 束
+text_info id: 242180	一条	一 & 条
+text_info id: 747539	一条边	一 & 条 & 边
+text_info id: 154395	一根	一 & 根
+text_info id: 685388	一次	一 & 次
+text_info id: 742212	一次函数	一 & 次 & 函数
+text_info id: 284609	一步	一 & 步
+text_info id: 685388	一段	一 & 段
+text_info id: 238950	一段时间	一 & 段 & 时间
+text_info id: 665166	一片	一 & 片
+text_info id: 107987	一直角	一 & 直角
+text_info id: 731469	一知	一 & 知
+text_info id: 768628	一种	一 & 种
+text_info id: 163883	一章	一 & 章
+text_info id: 242199	一系列	一 & 系列
+text_info id: 701323	一组	一 & 组
+text_info id: 753935	一组解为	一 & 组 & 解 & 为
+text_info id: 163883	一般地	一般 & 地
+text_info id: 789972	一艘	一 & 艘
+text_info id: 108071	一行	一 & 行
+text_info id: 641640	一解	一 & 解
+text_info id: 156705	一边 & 上	一 & 边上
+text_info id: 717771	一部分	一 & 部分
+text_info id: 730941	一项	一 & 项
+text_info id: 660701	一题	一 & 题
+text_info id: 685388	一首	一 & 首
+text_info id: 154395	七个	七 & 个
+text_info id: 285855	三个	三 & 个
+text_info id: 731032	三个数	三 & 个 & 数
+text_info id: 293169	三个数中	三 & 个 & 数 & 中
+text_info id: 308110	三个点	三 & 个 & 点
+text_info id: 632436	三位	三 & 位
+text_info id: 87882	三倍	三 & 倍
+text_info id: 306650	三分之二	三分 & 之 & 二
+text_info id: 288454	三垂线	三 & 垂线
+text_info id: 696911	三垂线定理	三 & 垂线 & 定理
+text_info id: 284775	三处	三 & 处
+text_info id: 626023	三条	三 & 条
+text_info id: 791441	三条边	三 & 条 & 边
+text_info id: 794558	三棱柱	三 & 棱 & 柱
+text_info id: 287470	三棱锥	三 & 棱锥
+text_info id: 242145	三次	三 & 次
+text_info id: 242724	三段	三 & 段
+text_info id: 791441	三点共线	三点 & 共 & 线
+text_info id: 159603	三种	三 & 种
+text_info id: 288375	三等分点	三 & 等 & 分 & 点
+text_info id: 288038	三等分点	三等 & 分 & 点
+text_info id: 170582	三等角	三 & 等角
+text_info id: 109395	三线	三 & 线
+text_info id: 724319	三线合一	三 & 线 & 合一
+text_info id: 154395	三组	三 & 组
+text_info id: 287110	三组数内	三 & 组 & 数 & 内
+text_info id: 789972	三艘	三 & 艘
+text_info id: 248019	三角形时	三角形 & 时
+text_info id: 672070	三边	三 & 边
+text_info id: 242761	三边长	三 & 边 & 长
+text_info id: 288907	三边长	三 & 边长
+text_info id: 285886	三项	三 & 项
+text_info id: 209797	上 & 任一点	上任 & 一点
+text_info id: 157096	上 & 任取	上任 & 取
+text_info id: 697495	上 & 位于	上位 & 于
+text_info id: 789972	上 & 装载 & 有	上装 & 载有
+text_info id: 88473	上且	上 & 且
+text_info id: 764711	上以	上 & 以
+text_info id: 634221	上半	上 & 半
+text_info id: 244385	上半圆	上 & 半圆
+text_info id: 650543	上取	上 & 取
+text_info id: 708859	上均	上 & 均
+text_info id: 724486	上式	上 & 式
+text_info id: 286707	上恒	上 & 恒
+text_info id: 641640	上恒有	上 & 恒 & 有
+text_info id: 89703	上方的	上方 & 的
+text_info id: 646059	上时	上 & 时
+text_info id: 168320	上求	上 & 求
+text_info id: 687552	上点	上 & 点
+text_info id: 157485	上画	上 & 画
+text_info id: 242466	上能	上 & 能
+text_info id: 646328	上行	上 & 行
+?text_info id: 211346	上面的	上面 & 的
+text_info id: 287477	上顶点	上 & 顶点
+text_info id: 654104	上题	上 & 题
+text_info id: 765465	下图中	下 & 图 & 中
+text_info id: 246775	下方的	下方 & 的
+text_info id: 646328	下行	下 & 行
+text_info id: 669247	下表	下 & 表
+text_info id: 730941	下证	下 & 证
+text_info id: 685388	下面的	下面 & 的
+text_info id: 157426	不一定	不 & 一定
+text_info id: 245226	不与	不 & 与
+text_info id: 292150	不为	不 & 为
+text_info id: 205772	不为零	不 & 为 & 零
+text_info id: 712663	不会	不 & 会
+text_info id: 287110	不全	不 & 全
+text_info id: 108071	不全为	不 & 全 & 为
+text_info id: 157426	不全等	不 & 全 & 等
+text_info id: 308110	不共线的	不 & 共 & 线 & 的
+text_info id: 108071	不具有	不 & 具有
+text_info id: 779003	不写	不 & 写
+text_info id: 640748	不减的	不 & 减 & 的
+text_info id: 727729	不包括	不 & 包括
+text_info id: 210436	不单调	不 & 单调
+text_info id: 672070	不变	不 & 变
+text_info id: 152462	不变性	不 & 变性
+text_info id: 163924	不变的	不 & 变 & 的
+text_info id: 286707	不可能	不 & 可能
+text_info id: 112196	不可能的	不 & 可能 & 的
+text_info id: 614824	不合	不 & 合
+text_info id: 213284	不合题意	不合 & 题意
+text_info id: 108071	不同	不 & 同
+text_info id: 632436	不同 & 时	不 & 同时
+text_info id: 293014	不同于	不同 & 于
+text_info id: 709360	不同时	不 & 同时
+text_info id: 284925	不同点	不同 & 点
+text_info id: 111849	不同的	不同 & 的
+text_info id: 762957	不同的值	不同 & 的 & 值
+text_info id: 742656	不含	不 & 含
+text_info id: 288993	不唯一	不 & 唯一
+text_info id: 167810	不在	不 & 在
+text_info id: 696572	不垂直	不 & 垂直
+text_info id: 731529	不垂直于	不 & 垂直 & 于
+text_info id: 152980	不大于	不 & 大 & 于
+text_info id: 684287	不失	不 & 失
+text_info id: 244582	不存在	不 & 存在
+text_info id: 108071	不完全相同	不 & 完全 & 相同
+text_info id: 202840	不小于	不 & 小于
+?text_info id: 211346	不少 & 于	不 & 少于
+text_info id: 766848	不少于	不 & 少于
+text_info id: 285855	不属于	不 & 属于
+text_info id: 631772	不平行	不 & 平行
+text_info id: 164534	不平行	不平 & 行
+text_info id: 622545	不平行的	不 & 平行 & 的
+text_info id: 309073	不影响	不 & 影响
+text_info id: 733835	不恒成立	不 & 恒 & 成立
+text_info id: 646059	不成立	不 & 成立
+text_info id: 681616	不是	不 & 是
+text_info id: 284697	不构成	不 & 构成
+text_info id: 154395	不正确	不 & 正确
+text_info id: 108710	不满足	不 & 满足
+text_info id: 152785	不相似	不 & 相似
+text_info id: 170536	不相切	不 & 相切
+text_info id: 731132	不相等	不 & 相 & 等
+text_info id: 626705	不相等	不 & 相等
+text_info id: 169690	不相等的	不 & 相 & 等 & 的
+text_info id: 108710	不相邻	不 & 相邻
+text_info id: 647186	不确定的	不 & 确定 & 的
+text_info id: 290681	不符合	不 & 符合
+text_info id: 747731	不等	不 & 等
+text_info id: 110217	不等于	不 & 等于
+text_info id: 653022	不等的	不等 & 的
+text_info id: 154395	不等边	不 & 等边
+text_info id: 731035	不组成	不 & 组成
+text_info id: 696708	不经过	不 & 经过
+text_info id: 723688	不经过点	不 & 经过 & 点
+text_info id: 747539	不能	不 & 能
+text_info id: 790884	不落在	不 & 落 & 在
+text_info id: 676493	不要求	不 & 要求
+text_info id: 682860	不论	不 & 论
+text_info id: 759564	不证明	不 & 证明
+text_info id: 766848	不超过	不 & 超过
+text_info id: 208704	不适合	不 & 适合
+text_info id: 156731	不重合	不 & 重合
+text_info id: 108629	不重合的	不 & 重合 & 的
+text_info id: 292378	不间断	不 & 间断
+text_info id: 788845	不需	不 & 需
+text_info id: 723772	不需要	不 & 需要
+text_info id: 107987	与面	与 & 面
+text_info id: 731181	与题	与 & 题
+text_info id: 673378	且 & 乙	且乙
+text_info id: 666897	且点	且 & 点
+text_info id: 245949	且长	且 & 长
+text_info id: 768540	丙离	丙 & 离
+text_info id: 157491	丙距	丙 & 距
+text_info id: 771735	两 & 两	两两
+text_info id: 243198	两三角形	两 & 三角形
+text_info id: 284925	两不同点	两 & 不同 & 点
+text_info id: 108801	两两垂直	两两 & 垂直
+text_info id: 238950	两个	两 & 个
+text_info id: 730941	两个数	两 & 个 & 数
+text_info id: 293014	两个根	两 & 个 & 根
+text_info id: 649955	两个点	两 & 个 & 点
+text_info id: 693257	两个解	两 & 个 & 解
+text_info id: 157491	两人	两 & 人
+text_info id: 244619	两人离	两 & 人 & 离
+text_info id: 731032	两元素	两 & 元素
+text_info id: 661396	两切点	两 & 切点
+text_info id: 743016	两切线	两 & 切线
+text_info id: 169515	两动点	两 & 动 & 点
+text_info id: 239054	两圆	两 & 圆
+text_info id: 159596	两块	两 & 块
+text_info id: 116425	两处	两 & 处
+text_info id: 111780	两定点	两 & 定点
+text_info id: 673823	两对	两 & 对
+text_info id: 791131	两层	两 & 层
+text_info id: 681639	两式	两 & 式
+text_info id: 242452	两数	两 & 数
+text_info id: 158715	两条	两 & 条
+text_info id: 109944	两根	两 & 根
+text_info id: 724418	两根 & 式	两 & 根式
+text_info id: 242145	两次	两 & 次
+text_info id: 309042	两段	两 & 段
+text_info id: 766845	两点	两 & 点
+text_info id: 244490	两点坐标	两 & 点 & 坐标
+text_info id: 110218	两点式	两 & 点 & 式
+text_info id: 765517	两点间	两 & 点 & 间
+text_info id: 209108	两点间的	两 & 点 & 间 & 的
+text_info id: 205324	两直线	两 & 直线
+text_info id: 242635	两直角边	两 & 直角 & 边
+text_info id: 243042	两种	两 & 种
+text_info id: 718102	两科	两 & 科
+text_info id: 245729	两类	两 & 类
+text_info id: 286938	两组	两 & 组
+text_info id: 622545	两腰	两 & 腰
+text_info id: 157595	两舰艇	两 & 舰艇
+text_info id: 108071	两行	两 & 行
+text_info id: 765517	两部分	两 & 部分
+text_info id: 108078	两项	两 & 项
+text_info id: 660701	两题	两 & 题
+text_info id: 649955	个令	个 & 令
+text_info id: 154395	个数	个 & 数
+text_info id: 152622	个点	个 & 点
+text_info id: 793563	个球	个 & 球
+text_info id: 762957	个解法	个 & 解法
+text_info id: 112514	个项	个 & 项
+text_info id: 696708	中令	中 & 令
+text_info id: 685388	中任取	中 & 任 & 取
+text_info id: 238714	中位线	中 & 位 & 线
+text_info id: 238714	中位线上	中 & 位 & 线 & 上
+text_info id: 688064	中作	中 & 作
+text_info id: 730941	中共	中 & 共
+text_info id: 112514	中取	中 & 取
+text_info id: 246413	中可得	中 & 可 & 得
+text_info id: 760264	中国结	中国 & 结
+text_info id: 737750	中垂	中 & 垂
+text_info id: 764711	中垂线上	中垂线 & 上
+text_info id: 739325	中当	中 & 当
+text_info id: 242192	中得	中 & 得
+text_info id: 108647	中心对称	中心 & 对称
+text_info id: 765517	中心点	中心 & 点
+text_info id: 108017	中必	中 & 必
+?text_info id: 211346	中恰	中 & 恰
+text_info id: 284775	中截面	中 & 截面
+text_info id: 108252	中有	中 & 有
+text_info id: 244490	中标	中 & 标
+text_info id: 210088	中点	中 & 点
+text_info id: 242301	中点坐标	中点 & 坐标
+text_info id: 287328	中点处	中 & 点 & 处
+text_info id: 731393	中点弦	中点 & 弦
+text_info id: 156731	中画	中 & 画
+text_info id: 737750	中线	中 & 线
+text_info id: 159487	中线长	中 & 线 & 长
+text_info id: 712760	中证出	中 & 证 & 出
+text_info id: 768628	中轴	中 & 轴
+text_info id: 743182	中连	中 & 连
+text_info id: 760264	串接	串 & 接
+text_info id: 685388	临界值	临界 & 值
+text_info id: 165896	为 & 何值	为何 & 值
+text_info id: 245858	为 & 何值时	为何 & 值 & 时
+text_info id: 214591	为侧	为 & 侧
+text_info id: 285872	为准	为 & 准
+text_info id: 640866	为原	为 & 原
+text_info id: 156736	为定	为 & 定
+text_info id: 210156	为定值	为 & 定 & 值
+text_info id: 207636	为实	为 & 实
+text_info id: 244619	为小聪	为 & 小聪
+text_info id: 666897	为底	为 & 底
+text_info id: 308502	为恒	为 & 恒
+text_info id: 171541	为求	为 & 求
+text_info id: 727729	为点	为 & 点
+text_info id: 764710	为边	为 & 边
+text_info id: 113143	为面	为 & 面
+text_info id: 731181	为首	为 & 首
+text_info id: 760133	之 & 和	之和
+text_info id: 242724	之和	之 & 和
+text_info id: 744325	之和为	之和 & 为
+text_info id: 244490	之差	之 & 差
+text_info id: 676490	之比	之 & 比
+text_info id: 157463	之比为	之 & 比 & 为
+text_info id: 712403	之积	之 & 积
+text_info id: 763637	之间的	之间 & 的
+text_info id: 768540	乙两人	乙 & 两 & 人
+text_info id: 157491	乙先	乙 & 先
+text_info id: 157595	乙在	乙 & 在
+text_info id: 157595	乙沿	乙 & 沿
+text_info id: 768540	乙骑	乙 & 骑
+text_info id: 723591	也为	也 & 为
+text_info id: 285855	也即	也 & 即
+text_info id: 306491	也可	也 & 可
+text_info id: 782279	也就是	也 & 就 & 是
+text_info id: 658272	也成立	也 & 成立
+text_info id: 677134	也是	也 & 是
+text_info id: 213558	也有	也 & 有
+text_info id: 238950	二到	二 & 到
+text_info id: 112016	二得	二 & 得
+text_info id: 670943	二次	二 & 次
+text_info id: 161908	二次函数	二 & 次 & 函数
+text_info id: 747346	二次项	二 & 次 & 项
+text_info id: 731469	二知	二 & 知
+text_info id: 743912	二种	二 & 种
+text_info id: 742212	二等分	二等 & 分
+text_info id: 157096	二等分 & 线段	二 & 等分线 & 段
+text_info id: 157096	二等分点	二等 & 分 & 点
+text_info id: 685388	二维	二 & 维
+text_info id: 109581	二重	二 & 重
+text_info id: 308502	二项	二 & 项
+text_info id: 713362	于点	于 & 点
+text_info id: 167731	互余	互 & 余
+text_info id: 288993	互质	互 & 质
+text_info id: 154395	五个	五 & 个
+text_info id: 156736	五条	五 & 条
+?text_info id: 777308	五棱锥	五 & 棱锥
+text_info id: 245538	交与	交 & 与
+text_info id: 673684	交于	交 & 于
+text_info id: 685175	交于点	交 & 于 & 点
+text_info id: 108252	交其	交 & 其
+text_info id: 702891	交圆	交 & 圆
+text_info id: 702160	交圆于	交 & 圆 & 于
+text_info id: 684816	交此	交 & 此
+text_info id: 669247	交流活动	交流 & 活动
+text_info id: 747539	交点	交 & 点
+text_info id: 742402	交点为	交点 & 为
+text_info id: 288375	交线	交 & 线
+text_info id: 685175	交该	交 & 该
+text_info id: 723591	交边	交 & 边
+text_info id: 209938	亦即	亦 & 即
+text_info id: 110187	产生的	产生 & 的
+text_info id: 206038	产生矛盾	产生 & 矛盾
+text_info id: 669247	人中	人 & 中
+text_info id: 669247	人为	人 & 为
+text_info id: 244489	仅供参考	仅 & 供 & 参考
+text_info id: 108017	仅存在	仅 & 存 & 在
+text_info id: 207636	仅当	仅 & 当
+text_info id: 685175	仅有	仅 & 有
+text_info id: 772956	仍成立	仍 & 成立
+text_info id: 108078	仍是	仍 & 是
+text_info id: 156313	仍有	仍 & 有
+text_info id: 676070	从图	从 & 图
+text_info id: 718102	从小到大	从 & 小 & 到 & 大
+text_info id: 685081	从左向右	从 & 左 & 向 & 右
+text_info id: 713158	从左至右	从 & 左 & 至 & 右
+text_info id: 163885	从点	从 & 点
+text_info id: 682388	从而	从 & 而
+text_info id: 687177	从而有	从而 & 有
+text_info id: 242761	他用	他 & 用
+text_info id: 671735	他的	他 & 的
+text_info id: 152785	代入	代 & 入
+text_info id: 287185	代入得	代 & 入 & 得
+text_info id: 752513	令点	令 & 点
+text_info id: 288447	以下 & 同	以 & 下同
+text_info id: 209108	以下 & 同解法一	以 & 下同 & 解法 & 一
+text_info id: 242199	以以	以 & 以
+text_info id: 713158	以点	以 & 点
+text_info id: 284848	以过	以 & 过
+text_info id: 744325	任一	任 & 一
+text_info id: 696708	任一 & 弦	任一弦
+text_info id: 744325	任一个	任 & 一个
+text_info id: 156895	任作	任 & 作
+text_info id: 244544	任写	任 & 写
+text_info id: 156731	任取	任 & 取
+text_info id: 286938	任意性	任意 & 性
+text_info id: 766848	任意的	任意 & 的
+text_info id: 157096	任意长	任意 & 长
+text_info id: 682786	任然	任 & 然
+text_info id: 243096	仿上	仿 & 上
+text_info id: 292052	休闲区	休闲 & 区
+text_info id: 712663	会落	会 & 落
+text_info id: 109395	位线	位 & 线
+text_info id: 213284	何值	何 & 值
+text_info id: 739325	何处时	何处 & 时
+text_info id: 88997	何种	何 & 种
+text_info id: 723590	余切值	余切 & 值
+text_info id: 696917	余弦值	余弦 & 值
+?text_info id: 777308	余弦值为	余弦 & 值 & 为
+text_info id: 794558	余弦定理	余弦 & 定理
+text_info id: 87882	作其	作 & 其
+text_info id: 245581	作出	作 & 出
+text_info id: 156705	作圆	作 & 圆
+text_info id: 743182	作在	作 & 在
+text_info id: 632436	作垂线	作 & 垂线
+text_info id: 661926	作尺	作 & 尺
+text_info id: 734187	作当	作 & 当
+text_info id: 693675	作河 & 边沿	作 & 河边 & 沿
+text_info id: 242922	作点	作 & 点
+text_info id: 676498	作矩形	作 & 矩形
+text_info id: 632206	作等边	作 & 等边
+text_info id: 244489	作腰	作 & 腰
+text_info id: 171541	作轴	作 & 轴
+text_info id: 286938	你的	你 & 的
+text_info id: 239196	使以	使 & 以
+text_info id: 162128	使以点	使 & 以 & 点
+text_info id: 288993	使其	使 & 其
+text_info id: 285855	使含	使 & 含
+text_info id: 169639	使得	使 & 得
+text_info id: 156736	使点	使 & 点
+text_info id: 108071	使表中	使 & 表 & 中
+text_info id: 687754	使该	使 & 该
+text_info id: 152482	使边	使 & 边
+text_info id: 608252	使面	使 & 面
+text_info id: 685388	供参考	供 & 参考
+text_info id: 108071	依此	依 & 此
+text_info id: 113185	依题	依 & 题
+?text_info id: 777308	侧棱	侧 & 棱
+text_info id: 242161	保卫人员	保卫 & 人员
+text_info id: 107987	值为	值 & 为
+text_info id: 661808	值时	值 & 时
+text_info id: 670996	假命题	假 & 命题
+text_info id: 627370	假设 & 在	假 & 设在
+text_info id: 157595	偏西	偏 & 西
+text_info id: 242761	做了	做 & 了
+text_info id: 702080	停留了	停留 & 了
+text_info id: 673823	偶数项	偶数 & 项
+text_info id: 640748	充分性	充分 & 性
+text_info id: 768540	先出发	先 & 出发
+text_info id: 673708	先向	先 & 向
+text_info id: 108164	先来	先 & 来
+text_info id: 247763	光反射	光 & 反射
+text_info id: 247763	入射	入 & 射
+text_info id: 247763	入射光 & 线	入 & 射 & 光线
+text_info id: 247763	入射光线	入 & 射 & 光线
+text_info id: 731032	全为	全 & 为
+text_info id: 718102	全体同学	全体 & 同学
+text_info id: 108071	全是	全 & 是
+text_info id: 162128	全等	全 & 等
+text_info id: 156313	全等的	全 & 等 & 的
+text_info id: 770083	全落在	全 & 落 & 在
+text_info id: 731548	公共弦	公共 & 弦
+text_info id: 731548	公共点	公共 & 点
+text_info id: 308691	公共点时	公共 & 点 & 时
+text_info id: 727369	公共角	公共 & 角
+text_info id: 731181	公差	公 & 差
+text_info id: 286938	公比	公 & 比
+text_info id: 110187	公路边上	公路 & 边 & 上
+text_info id: 244996	六个	六 & 个
+text_info id: 284609	共圆	共 & 圆
+text_info id: 156705	共有	共 & 有
+text_info id: 156313	共点	共 & 点
+text_info id: 242180	共线	共 & 线
+text_info id: 238950	共线时	共 & 线 & 时
+text_info id: 291901	共面	共 & 面
+text_info id: 242275	关于点	关于 & 点
+text_info id: 245249	关系式	关系 & 式
+text_info id: 306491	关键点	关键 & 点
+text_info id: 242724	兴趣小组	兴趣 & 小组
+text_info id: 113143	其 & 一个	其一 & 个
+text_info id: 685388	其 & 猜对	其猜 & 对
+text_info id: 646328	其中	其 & 中
+text_info id: 156731	其中点	其中 & 点
+text_info id: 291901	其余 & 弦值	其 & 余弦 & 值
+text_info id: 88657	其余的	其余 & 的
+text_info id: 649577	其作	其 & 作
+text_info id: 285873	其值	其 & 值
+text_info id: 285872	其准	其 & 准
+text_info id: 709866	其前	其 & 前
+text_info id: 759564	其它的	其它 & 的
+text_info id: 244880	其定值	其 & 定 & 值
+text_info id: 727369	其所	其 & 所
+text_info id: 710771	其离心率	其 & 离心 & 率
+text_info id: 288907	内作	内 & 作
+text_info id: 156705	内使	内 & 使
+text_info id: 768464	内均	内 & 均
+text_info id: 686297	内接	内 & 接
+text_info id: 702891	内接于	内 & 接 & 于
+text_info id: 767722	内有	内 & 有
+text_info id: 747731	内有且仅有	内 & 有 & 且 & 仅 & 有
+text_info id: 308640	内有零点	内 & 有 & 零点
+text_info id: 632333	内角和	内角 & 和
+text_info id: 292897	内过	内 & 过
+text_info id: 712760	内部的	内部 & 的
+text_info id: 289109	再令	再 & 令
+text_info id: 697495	再作	再 & 作
+text_info id: 159309	再求	再 & 求
+?text_info id: 700330	再设	再 & 设
+text_info id: 635726	再证	再 & 证
+text_info id: 690483	再问	再 & 问
+text_info id: 157426	写作 & 法	写 & 作法
+text_info id: 676070	写出	写 & 出
+text_info id: 108017	写出了	写 & 出 & 了
+text_info id: 108710	写成	写 & 成
+text_info id: 210370	写点	写 & 点
+text_info id: 157595	军事演习	军事 & 演习
+text_info id: 285872	准圆	准 & 圆
+text_info id: 760133	准线	准 & 线
+text_info id: 116425	减函数	减 & 函数
+text_info id: 735135	减区间	减 & 区间
+text_info id: 245759	减小	减 & 小
+text_info id: 731215	减消	减 & 消
+text_info id: 244385	几个	几 & 个
+text_info id: 287623	几条	几 & 条
+text_info id: 154395	几条边	几 & 条 & 边
+text_info id: 244619	几点钟	几 & 点 & 钟
+text_info id: 244385	几种	几 & 种
+text_info id: 108017	几阶	几 & 阶
+text_info id: 309042	几项	几 & 项
+text_info id: 244544	凸四边形	凸 & 四边形
+text_info id: 157491	出发后	出发 & 后
+text_info id: 156731	出点	出 & 点
+text_info id: 242235	函数值	函数 & 值
+text_info id: 687754	函数的	函数 & 的
+text_info id: 731540	分别为	分别 & 为
+text_info id: 665166	分别是	分别 & 是
+text_info id: 790835	分别有	分别 & 有
+text_info id: 109944	分割为	分割 & 为
+text_info id: 685388	分层抽样	分层 & 抽样
+text_info id: 793563	分布列 & 为	分布 & 列为
+text_info id: 669247	分布表	分布 & 表
+text_info id: 171032	分式方程	分式 & 方程
+text_info id: 747731	分析法	分析 & 法
+text_info id: 734186	切于	切 & 于
+text_info id: 170536	切点	切 & 点
+text_info id: 210618	切线	切 & 线
+text_info id: 649577	切线长	切线 & 长
+text_info id: 665166	划出	划 & 出
+text_info id: 730941	列举法	列举 & 法
+text_info id: 793563	列及	列 & 及
+text_info id: 687551 	列方程	列 & 方程
+text_info id: 685388	列联表	列 & 联 & 表
+text_info id: 242192	则有	则 & 有
+text_info id: 108017	则称	则 & 称
+text_info id: 791131	刚好 & 过	刚 & 好过
+text_info id: 632436	刚才的	刚才 & 的
+text_info id: 242180	创新能力	创新 & 能力
+text_info id: 670943	到 & 点	到点
+text_info id: 213284	到面	到 & 面
+text_info id: 674025	前一项	前 & 一 & 项
+text_info id: 768628	前后轮	前后 & 轮
+text_info id: 161828	前四周	前 & 四周
+text_info id: 713514	剪开	剪 & 开
+text_info id: 213530	劣弧长	劣弧 & 长
+text_info id: 111842	动圆	动 & 圆
+text_info id: 734285	动圆 & 圆心	动 & 圆圆 & 心
+text_info id: 288046	动弦	动 & 弦
+text_info id: 242368	动点	动 & 点
+text_info id: 760133	动直线	动 & 直线
+text_info id: 156731	动线段	动 & 线段
+text_info id: 649577	勾股	勾 & 股
+text_info id: 157485	勾股 & 分割	勾 & 股分 & 割
+text_info id: 157485	勾股 & 分割点	勾 & 股分 & 割 & 点
+text_info id: 641106	匀速运动	匀速 & 运动
+text_info id: 710771	化为	化 & 为
+text_info id: 681639	化简	化 & 简
+text_info id: 681616	化简得	化 & 简 & 得
+text_info id: 116425	北偏东	北 & 偏 & 东
+text_info id: 109682	区间	区 & 间
+text_info id: 665166	千米	千 & 米
+text_info id: 288055	半圆弧上	半 & 圆弧 & 上
+text_info id: 673684	半径长	半径 & 长
+text_info id: 710771	半焦距	半 & 焦距
+text_info id: 288055	半距	半 & 距
+text_info id: 245819	半轴	半 & 轴
+text_info id: 701323	单位向量	单位 & 向 & 量
+text_info id: 245538	单位长	单位 & 长
+text_info id: 292378	单调 & 减函数	单 & 调减 & 函数
+text_info id: 768464	单调 & 减区间	单 & 调减 & 区间
+text_info id: 292378	单调减	单 & 调减
+text_info id: 641640	单调增	单调 & 增
+text_info id: 292378	单调增 & 函数	单调 & 增函数
+text_info id: 109944	单调性	单调 & 性
+text_info id: 685388	单音色	单 & 音色
+text_info id: 789972	南偏东	南 & 偏 & 东
+text_info id: 759564	即为	即 & 为
+text_info id: 156731	即可	即 & 可
+text_info id: 308994	即可得	即 & 可 & 得
+text_info id: 308994	即异面	即 & 异 & 面
+text_info id: 747538	即当	即 & 当
+text_info id: 309042	即得	即 & 得
+text_info id: 684287	即是	即 & 是
+text_info id: 238956	即点	即 & 点
+text_info id: 108359	即用	即 & 用
+text_info id: 111849	即证	即 & 证
+text_info id: 791441	即该	即 & 该
+text_info id: 765517	即过	即 & 过
+text_info id: 661808	厘米 & / & 秒	厘 & 米/秒
+text_info id: 658272	原不等式	原 & 不等式
+text_info id: 699089	原式	原 & 式
+text_info id: 171032	原方程	原 & 方程
+text_info id: 284848	原点	原 & 点
+text_info id: 640748	原结论	原 & 结论
+text_info id: 244619	原路	原 & 路
+text_info id: 702080	原速	原 & 速
+text_info id: 162117	原速度	原 & 速度
+text_info id: 715608	原问题	原 & 问题
+text_info id: 715608	原问题中	原 & 问题 & 中
+text_info id: 288993	原顺序	原 & 顺序
+text_info id: 713514	原题	原 & 题
+text_info id: 108078	去代	去 & 代
+text_info id: 699088	又因为	又 & 因为
+text_info id: 211356	又是	又 & 是
+text_info id: 156705	又称	又 & 称
+text_info id: 753935	又面	又 & 面
+text_info id: 761212	及其	及 & 其
+text_info id: 723686	及图	及 & 图
+text_info id: 156731	及点	及 & 点
+text_info id: 87882	双叶	双 & 叶
+text_info id: 731035	反例	反 & 例
+text_info id: 684816	反射后	反射 & 后
+text_info id: 152462	反折	反 & 折
+text_info id: 632436	反比例 & 图象	反 & 比例图 & 象
+text_info id: 737750	发现了	发现 & 了
+text_info id: 760764	发生变化	发生 & 变化
+text_info id: 243061	取一点	取 & 一点
+text_info id: 287470	取为	取 & 为
+text_info id: 730941	取何值	取 & 何 & 值
+text_info id: 762792	取到	取 & 到
+text_info id: 628997	取圆	取 & 圆
+?text_info id: 211346	取定	取 & 定
+text_info id: 731132	取对数	取 & 对数
+text_info id: 701685	取棱	取 & 棱
+text_info id: 239196	取点	取 & 点
+text_info id: 208644	取等号	取 & 等 & 号
+text_info id: 116425	取等号	取 & 等号
+text_info id: 112514	取项	取 & 项
+text_info id: 760764	变化规律	变化 & 规律
+text_info id: 159332	变小了	变 & 小 & 了
+text_info id: 309042	变换为	变换 & 为
+text_info id: 665828	另一	另 & 一
+text_info id: 673684	另一个	另 & 一个
+text_info id: 156802	另一个点	另 & 一个 & 点
+text_info id: 244704	另一侧	另 & 一 & 侧
+text_info id: 687361	另一条	另 & 一 & 条
+text_info id: 664076	另一点	另 & 一点
+text_info id: 286938	另一组	另 & 一 & 组
+text_info id: 670210	另两条	另 & 两 & 条
+text_info id: 762186	另有	另 & 有
+text_info id: 681639	另法	另 & 法
+text_info id: 88657	另解	另 & 解
+text_info id: 239196	只可能	只 & 可能
+text_info id: 730941	只含	只 & 含
+text_info id: 730941	只含有	只 & 含有
+text_info id: 285855	只有	只 & 有
+text_info id: 244355	只能	只 & 能
+text_info id: 640748	只能是	只能 & 是
+text_info id: 242161	只要	只 & 要
+text_info id: 306261	只需	只 & 需
+text_info id: 242368	只需 & 求出	只 & 需求 & 出
+text_info id: 204969	只需要	只 & 需要
+text_info id: 287477	只须	只 & 须
+text_info id: 289165	只须证	只 & 须 & 证
+text_info id: 156736	叫做	叫 & 做
+text_info id: 238410	可令	可 & 令
+text_info id: 724418	可以	可 & 以
+text_info id: 156313	可使	可 & 使
+text_info id: 161828	可供	可 & 供
+text_info id: 775071	可化为	可 & 化为
+text_info id: 292501	可导	可 & 导
+text_info id: 766848	可得	可 & 得
+text_info id: 697057	可得 & 当	可 & 得当
+text_info id: 108071	可得 & 数表	可 & 得数 & 表
+?text_info id: 697056	可得出	可 & 得 & 出
+text_info id: 730941	可得到	可 & 得到
+text_info id: 244119	可得点	可 & 得 & 点
+text_info id: 724486	可求	可 & 求
+text_info id: 734439	可求出	可 & 求 & 出
+text_info id: 676518	可求得	可 & 求得
+text_info id: 734285	可求知	可 & 求知
+text_info id: 108017	可用	可 & 用
+text_info id: 658272	可知	可 & 知
+?text_info id: 608250	可知 & 交线	可 & 知交 & 线
+text_info id: 653742	可简化	可 & 简化
+text_info id: 285873	可能值	可能 & 值
+text_info id: 793563	可能的	可能 & 的
+text_info id: 682716	可若	可 & 若
+text_info id: 684287	可见	可 & 见
+text_info id: 163883	可视	可 & 视
+text_info id: 727729	可解	可 & 解
+text_info id: 242368	可设	可 & 设
+text_info id: 246117	可证	可 & 证
+text_info id: 615908	可证出	可 & 证 & 出
+text_info id: 163924	可证点	可 & 证 & 点
+text_info id: 649577	右侧的	右侧 & 的
+text_info id: 156731	右半圆上时	右 & 半圆 & 上 & 时
+text_info id: 113185	右焦点	右 & 焦点
+text_info id: 706254	右移	右 & 移
+text_info id: 159481	右边的	右边 & 的
+text_info id: 113185	右顶点	右 & 顶点
+text_info id: 693675	吃饱喝足	吃 & 饱 & 喝 & 足
+text_info id: 285873	各不相同	各 & 不 & 相同
+text_info id: 163883	各对	各 & 对
+text_info id: 649049	各是	各 & 是
+text_info id: 167731	各有	各 & 有
+text_info id: 288454	各棱长	各 & 棱 & 长
+text_info id: 111812	各点	各 & 点
+text_info id: 649451	各边	各 & 边
+text_info id: 670210	各边上	各 & 边上
+text_info id: 794112	各项和	各项 & 和
+text_info id: 647186	合适的	合适 & 的
+text_info id: 681616	合题意	合 & 题意
+text_info id: 744955	同一 & 直线	同 & 一直 & 线
+text_info id: 242235	同一个	同 & 一个
+text_info id: 284609	同一个圆	同一个 & 圆
+text_info id: 246117	同一条	同 & 一 & 条
+text_info id: 245877	同上	同 & 上
+text_info id: 244880	同个	同 & 个
+text_info id: 246117	同侧	同 & 侧
+text_info id: 692172	同向	同 & 向
+text_info id: 731032	同奇 & 同偶	同 & 奇同偶
+text_info id: 242180	同学们	同学 & 们
+text_info id: 762865	同底	同 & 底
+text_info id: 727369	同弧	同 & 弧
+text_info id: 662846	同样有	同样 & 有
+text_info id: 159495	同样的	同样 & 的
+text_info id: 305556	同法	同 & 法
+text_info id: 687177	同理	同 & 理
+text_info id: 245833	同理 & 可得	同 & 理可得
+text_info id: 238411	同理可证	同 & 理 & 可 & 证
+text_info id: 768247	同过	同 & 过
+text_info id: 157841	后点	后 & 点
+text_info id: 242180	后面的	后面 & 的
+text_info id: 686271	向上	向 & 上
+text_info id: 695232	向下	向 & 下
+text_info id: 238950	向右	向 & 右
+text_info id: 284775	向地下	向 & 地下
+text_info id: 693623	向外	向 & 外
+text_info id: 703935	向左	向 & 左
+text_info id: 162117	向点	向 & 点
+text_info id: 731469	向量法	向量 & 法
+text_info id: 213558	向量集	向量 & 集
+text_info id: 245833	含点	含 & 点
+text_info id: 669247	听党话	听 & 党 & 话
+text_info id: 161828	呈上升	呈 & 上升
+text_info id: 161828	周共	周 & 共
+text_info id: 161828	周数	周 & 数
+text_info id: 161828	周起	周 & 起
+text_info id: 245226	周长	周 & 长
+text_info id: 205994	周长 & 为	周长为
+text_info id: 246237	周长 & 有	周长有
+text_info id: 156895	哪一	哪 & 一
+text_info id: 161828	哪一周	哪 & 一 & 周
+text_info id: 245767	哪一点	哪 & 一点
+text_info id: 663099	哪几种	哪 & 几 & 种
+text_info id: 108017	唯一 & 一组	唯 & 一一 & 组
+text_info id: 284819	唯一的	唯一 & 的
+text_info id: 242161	唯一的点	唯一 & 的 & 点
+text_info id: 708859	唯一解	唯一 & 解
+text_info id: 116425	商业中心	商业 & 中心
+text_info id: 693623	喷到	喷 & 到
+text_info id: 646808	四个	四 & 个
+text_info id: 112016	四得	四 & 得
+text_info id: 159008	四条	四 & 条
+text_info id: 673378	四条边	四 & 条 & 边
+text_info id: 288990	四棱柱	四 & 棱 & 柱
+text_info id: 107155	四棱锥	四 & 棱锥
+text_info id: 284609	四点共圆	四点 & 共 & 圆
+text_info id: 210088	四点共面	四点 & 共 & 面
+text_info id: 734439	四种	四 & 种
+text_info id: 244996	四等分点	四 & 等 & 分 & 点
+text_info id: 154395	四类	四 & 类
+text_info id: 242970	四边	四 & 边
+text_info id: 293169	四项	四 & 项
+text_info id: 242922	回到	回 & 到
+text_info id: 247763	回到了	回到 & 了
+text_info id: 718102	回归方程	回归 & 方程
+text_info id: 685388	回答出	回答 & 出
+text_info id: 793563	回馈	回 & 馈
+text_info id: 108071	因 & 数表	因数 & 表
+text_info id: 766848	因为	因 & 为
+text_info id: 285872	因为 & 准圆	因 & 为准 & 圆
+text_info id: 681639	因为点	因为 & 点
+text_info id: 763637	围成	围 & 成
+text_info id: 662846	围成的	围 & 成 & 的
+text_info id: 158313	固定不动	固定 & 不 & 动
+text_info id: 649955	固定值	固定 & 值
+text_info id: 684865	固定在	固定 & 在
+text_info id: 243198	图上	图 & 上
+text_info id: 764710	图中	图 & 中
+text_info id: 676877	图乙中	图 & 乙 & 中
+text_info id: 676877	图甲	图 & 甲
+text_info id: 676877	图甲中	图 & 甲 & 中
+text_info id: 673684	图象	图 & 象
+text_info id: 113367	图象 & 恒在	图 & 象恒 & 在
+text_info id: 159332	图象 & 是	图 & 象是
+text_info id: 676483	图象上	图 & 象 & 上
+text_info id: 159332	图象上 & 任取	图 & 象 & 上任 & 取
+text_info id: 632206	圆上	圆 & 上
+text_info id: 697424	圆交	圆 & 交
+text_info id: 761212	圆内	圆 & 内
+text_info id: 244880	圆内接	圆 & 内 & 接
+text_info id: 762957	圆有	圆 & 有
+text_info id: 762957	圆过	圆 & 过
+text_info id: 762957	在 & 线段	在线 & 段
+text_info id: 693675	在此之前	在 & 此 & 之前
+text_info id: 244489	地平面上	地 & 平面 & 上
+text_info id: 157491	地沿	地 & 沿
+text_info id: 768628	地面上	地面 & 上
+text_info id: 685388	场外	场 & 外
+text_info id: 239196	均为	均 & 为
+text_info id: 763637	均可	均 & 可
+text_info id: 284609	均在	均 & 在
+text_info id: 760264	均成	均 & 成
+text_info id: 658272	均成立	均 & 成立
+text_info id: 287328	均适合	均 & 适合
+text_info id: 665166	坐标 & 系	坐标系
+text_info id: 235744	坐标为	坐标 & 为
+text_info id: 692534	坐标系中	坐标系 & 中
+text_info id: 796643	坐标轴上	坐标轴 & 上
+text_info id: 734285	垂径	垂 & 径
+text_info id: 308110	垂心	垂 & 心
+text_info id: 242192	垂直于	垂直 & 于
+text_info id: 632206	垂直平分	垂直 & 平分
+text_info id: 170678	垂直平分线	垂直 & 平分 & 线
+text_info id: 759564	垂直平分线上	垂直 & 平分 & 线 & 上
+text_info id: 687552	垂线段	垂 & 线段
+text_info id: 672070	垂线段	垂线 & 段
+text_info id: 768941	垂美	垂 & 美
+text_info id: 164534	垂足	垂 & 足
+text_info id: 791488	垂足为	垂 & 足 & 为
+text_info id: 734870	垂足点	垂 & 足 & 点
+text_info id: 628997	型点	型 & 点
+text_info id: 701323	基底	基 & 底
+text_info id: 744325	基底集	基底 & 集
+text_info id: 193148	填上	填 & 上
+text_info id: 108710	填入	填 & 入
+text_info id: 157358	填出	填 & 出
+text_info id: 159332	增减性	增减 & 性
+text_info id: 735135	增区间	增 & 区间
+text_info id: 693675	处养	处 & 养
+text_info id: 284775	处后	处 & 后
+text_info id: 717771	处时	处 & 时
+text_info id: 284819	处有	处 & 有
+text_info id: 693623	处有一根	处 & 有 & 一 & 根
+text_info id: 157426	备用图	备用 & 图
+text_info id: 238950	备用图 & 画出	备用 & 图画 & 出
+text_info id: 308110	外 & 心	外心
+text_info id: 661926	外作	外 & 作
+text_info id: 760133	外切	外 & 切
+text_info id: 87882	外展	外 & 展
+text_info id: 245204	外心	外 & 心
+text_info id: 156895	外心点	外心 & 点
+text_info id: 246439	外有	外 & 有
+text_info id: 288041	外点	外 & 点
+text_info id: 797249	外端点	外 & 端点
+text_info id: 650543	外角平分线	外角 & 平分 & 线
+text_info id: 161828	多个	多 & 个
+text_info id: 159481	多少个	多少 & 个
+text_info id: 653075	多少度	多少 & 度
+text_info id: 210618	多少条	多少 & 条
+text_info id: 674025	多年前	多 & 年 & 前
+text_info id: 702080	多长时间	多 & 长 & 时间
+text_info id: 640748	多项	多 & 项
+text_info id: 687177	大于	大 & 于
+text_info id: 653742	大值	大 & 值
+text_info id: 649955	大小	大 & 小
+text_info id: 209316	大小为	大小 & 为
+text_info id: 676877	大正方形	大 & 正方形
+text_info id: 242161	大约为	大约 & 为
+text_info id: 628997	夹在	夹 & 在
+text_info id: 639929	奇函数	奇 & 函数
+text_info id: 730941	奇数个	奇数 & 个
+text_info id: 730941	奇数个 & 数	奇数 & 个数
+text_info id: 673823	奇数项	奇数 & 项
+text_info id: 793563	奖励额	奖励 & 额
+text_info id: 244544	她的	她 & 的
+text_info id: 766848	好子集	好 & 子集
+text_info id: 111812	如上图	如 & 上 & 图
+text_info id: 163883	如下	如 & 下
+text_info id: 242235	如下表	如下 & 表
+text_info id: 159603	如图	如 & 图
+text_info id: 683798	如图 & 丁	如 & 图丁
+text_info id: 666228	如图所示	如 & 图 & 所 & 示
+text_info id: 679513	如图所示的	如 & 图 & 所 & 示 & 的
+text_info id: 747578	如图点	如 & 图 & 点
+text_info id: 245877	如图的	如 & 图 & 的
+text_info id: 698083	如答	如 & 答
+text_info id: 731124	如表	如 & 表
+text_info id: 162128	如解	如 & 解
+text_info id: 288993	子列	子 & 列
+text_info id: 744325	子集中	子集 & 中
+text_info id: 747731	存在性	存在 & 性
+text_info id: 734439	存在点	存在 & 点
+text_info id: 649653	学到	学 & 到
+text_info id: 672943	它们	它 & 们
+text_info id: 306650	它们的	它们 & 的
+text_info id: 682716	它的	它 & 的
+text_info id: 243606	它的长度	它 & 的 & 长度
+text_info id: 285873	完全相同	完全 & 相同
+text_info id: 109944	定义域内	定义域 & 内
+text_info id: 108252	定值	定 & 值
+text_info id: 286121	定圆	定 & 圆
+text_info id: 286121	定直线	定 & 直线
+text_info id: 634222	实数根	实数 & 根
+text_info id: 724347	实数解	实数 & 解
+text_info id: 744325	实数集	实数 & 集
+text_info id: 787780	实根	实 & 根
+text_info id: 244619	实际意义	实际 & 意义
+text_info id: 791131	容器内	容器 & 内
+text_info id: 170874	宽度为	宽度 & 为
+text_info id: 763003	对于 & 某一	对 & 于某 & 一
+text_info id: 632436	对图	对 & 图
+text_info id: 308691	对应	对 & 应
+text_info id: 242235	对应值	对应 & 值
+text_info id: 687361	对应点	对 & 应 & 点
+text_info id: 687551 	对应点	对应 & 点
+text_info id: 244355	对应的	对应 & 的
+text_info id: 152785	对应边	对 & 应 & 边
+text_info id: 687494	对折	对 & 折
+text_info id: 662208	对称中心	对称 & 中心
+text_info id: 676489	对称点	对称 & 点
+text_info id: 747346	对称轴 & 对称	对称 & 轴对称
+text_info id: 666897	对称轴上	对称轴 & 上
+text_info id: 242301	对称轴上 & 将	对称轴 & 上将
+text_info id: 243661	对称轴上且	对称轴 & 上 & 且
+text_info id: 88302	对称轴于点	对称轴 & 于 & 点
+text_info id: 661808	对边	对 & 边
+text_info id: 787780	导函数	导 & 函数
+text_info id: 731529	将式	将 & 式
+text_info id: 242136	将点	将 & 点
+text_info id: 113143	将面	将 & 面
+text_info id: 308936	小 & 区间	小区 & 间
+text_info id: 158128	小于	小 & 于
+text_info id: 243347	小伟	小 & 伟
+text_info id: 163883	小力	小 & 力
+text_info id: 244489	小山上	小 & 山上
+text_info id: 632436	小峰	小 & 峰
+text_info id: 244619	小慧	小 & 慧
+text_info id: 244619	小慧时	小 & 慧 & 时
+text_info id: 246117	小明	小 & 明
+text_info id: 156705	小正方形	小 & 正方形
+text_info id: 156313	小炎	小 & 炎
+text_info id: 244544	小红	小 & 红
+text_info id: 687236	小者	小 & 者
+text_info id: 246117	小聪	小 & 聪
+text_info id: 156313	尝试了	尝试 & 了
+text_info id: 634221	就是	就 & 是
+text_info id: 156736	就要	就 & 要
+text_info id: 747578	尺规	尺 & 规
+text_info id: 108071	尽可能少	尽可能 & 少
+text_info id: 308502	展开式	展开 & 式
+text_info id: 292052	展示区	展示 & 区
+text_info id: 244489	山高	山 & 高
+text_info id: 238956	左上方	左 & 上方
+text_info id: 156731	左半圆上	左 & 半圆 & 上
+text_info id: 628997	左焦点	左 & 焦点
+text_info id: 209452	左端点	左 & 端点
+text_info id: 287328	左视图	左 & 视图
+text_info id: 287477	左顶点	左 & 顶点
+text_info id: 731032	差为	差 & 为
+text_info id: 244489	差角	差 & 角
+text_info id: 108730	己知	己 & 知
+text_info id: 284775	已无矿	已 & 无 & 矿
+text_info id: 244385	已知	已 & 知
+text_info id: 760764	已证	已 & 证
+text_info id: 653075	帮她	帮 & 她
+text_info id: 242180	常从	常 & 从
+text_info id: 169690	常数	常 & 数
+text_info id: 205772	常数列	常 & 数列
+text_info id: 731181	常数列	常数 & 列
+text_info id: 239196	平分线	平分 & 线
+text_info id: 711445	平分线上	平分 & 线 & 上
+text_info id: 662822	平方厘米	平方 & 厘米
+text_info id: 238714	平方后	平方 & 后
+text_info id: 306095	平移中的	平移 & 中 & 的
+text_info id: 670943	平移到	平移 & 到
+text_info id: 247765	平移到 & 点	平移 & 到点
+text_info id: 170678	平移后	平移 & 后
+text_info id: 242136	平移的	平移 & 的
+text_info id: 284823	平行于	平行 & 于
+text_info id: 674001	平行四边形	平行 & 四边形
+text_info id: 763637	平面上	平面 & 上
+text_info id: 713362	平面内	平面 & 内
+text_info id: 242161	平面图	平面 & 图
+text_info id: 284755	平面角	平面 & 角
+text_info id: 308994	平面角为	平面 & 角 & 为
+text_info id: 708859	并令	并 & 令
+text_info id: 245768	并作	并 & 作
+text_info id: 157841	并求	并 & 求
+text_info id: 89703	并求出	并 & 求 & 出
+text_info id: 245015	并求出点	并 & 求 & 出 & 点
+text_info id: 306415	并用	并 & 用
+text_info id: 674025	并称	并 & 称
+text_info id: 213558	并设	并 & 设
+text_info id: 798015	广泛的	广泛 & 的
+text_info id: 699260	应为	应 & 为
+text_info id: 156313	应想	应 & 想
+text_info id: 157595	应是	应 & 是
+text_info id: 308691	应有	应 & 有
+text_info id: 306491	应给	应 & 给
+text_info id: 287263	底边长	底边 & 长
+text_info id: 284823	底面	底 & 面
+text_info id: 290042	底面 & 上	底 & 面上
+?text_info id: 777308	底面 & 的	底 & 面的
+text_info id: 244880	度角	度 & 角
+text_info id: 768628	座杆	座 & 杆
+text_info id: 158303	延轴	延 & 轴
+text_info id: 666897	延长线	延长 & 线
+text_info id: 665828	延长线上	延长 & 线 & 上
+text_info id: 743182	延长线上时	延长 & 线 & 上 & 时
+text_info id: 723772	延长线于	延长 & 线 & 于
+text_info id: 244489	建在	建 & 在
+text_info id: 242761	开始时	开始 & 时
+text_info id: 157491	开汽车	开 & 汽车
+text_info id: 685388	开门大吉	开门 & 大吉
+text_info id: 731540	异于	异 & 于
+text_info id: 693021	异于点	异 & 于 & 点
+text_info id: 742899	异侧	异 & 侧
+text_info id: 731193	异号	异 & 号
+text_info id: 107987	异面	异 & 面
+text_info id: 730941	引理	引 & 理
+text_info id: 734285	弦长	弦 & 长
+text_info id: 110626	弦长为	弦 & 长 & 为
+text_info id: 284609	弦长公式	弦 & 长 & 公式
+text_info id: 743912	弧上	弧 & 上
+text_info id: 205324	当且	当 & 且
+text_info id: 208644	当且仅当	当 & 且 & 仅 & 当
+text_info id: 768540	当丙	当 & 丙
+text_info id: 665397	当以	当 & 以
+text_info id: 244385	当使	当 & 使
+text_info id: 796443	当动点	当 & 动 & 点
+text_info id: 89850	当四 & 边形	当 & 四边形
+?text_info id: 661328	当圆	当 & 圆
+text_info id: 639824	当如	当 & 如
+text_info id: 661808	当有	当 & 有
+text_info id: 238714	当点	当 & 点
+text_info id: 287623	当过	当 & 过
+text_info id: 242922	形成的	形成 & 的
+text_info id: 670665	形时	形 & 时
+text_info id: 110195	形线	形 & 线
+text_info id: 724418	待定系数法	待定 & 系数 & 法
+text_info id: 734439	得出	得 & 出
+text_info id: 157595	得出结论	得出 & 结论
+text_info id: 308994	得到	得 & 到
+text_info id: 309073	得到的	得到 & 的
+text_info id: 170607	得图	得 & 图
+text_info id: 304664	得当	得 & 当
+text_info id: 242192	得点	得 & 点
+text_info id: 730941	得证	得 & 证
+text_info id: 108017	必为	必 & 为
+text_info id: 763612	必在	必 & 在
+text_info id: 244536	必存在	必 & 存在
+text_info id: 285873	必是	必 & 是
+text_info id: 286707	必有	必 & 有
+text_info id: 88657	必过	必 & 过
+text_info id: 791131	忽略不计	忽略 & 不 & 计
+text_info id: 749959	怎样的	怎样 & 的
+text_info id: 156313	思考问题	思考 & 问题
+text_info id: 731215	性知	性 & 知
+text_info id: 676693	总为	总 & 为
+text_info id: 684287	总在	总 & 在
+text_info id: 153466	总存在	总 & 存在
+text_info id: 632436	总是	总 & 是
+text_info id: 238411	总有	总 & 有
+text_info id: 161828	总销售额	总 & 销售额
+text_info id: 685175	恒为	恒 & 为
+text_info id: 286707	恒为正	恒 & 为 & 正
+text_info id: 286707	恒为负	恒 & 为 & 负
+text_info id: 688064	恒在	恒 & 在
+text_info id: 731048	恒大于	恒大 & 于
+text_info id: 210618	恒大于零	恒大 & 于 & 零
+text_info id: 113294	恒小于	恒 & 小于
+text_info id: 677134	恒成立	恒 & 成立
+text_info id: 286938	恒有	恒 & 有
+text_info id: 743518	恒过	恒 & 过
+text_info id: 285873	恰为	恰 & 为
+text_info id: 245491	恰好是	恰好 & 是
+text_info id: 766848	恰有	恰 & 有
+text_info id: 788845	情况下	情况 & 下
+text_info id: 242161	想在	想 & 在
+text_info id: 718102	成 & 百分制	成百 & 分 & 制
+text_info id: 108017	成对	成 & 对
+text_info id: 210370	成成	成 & 成
+text_info id: 632436	或图	或 & 图
+text_info id: 244355	或点	或 & 点
+text_info id: 641640	或解	或 & 解
+text_info id: 632333	截出	截 & 出
+text_info id: 734285	截得	截 & 得
+text_info id: 110626	截得的	截 & 得 & 的
+text_info id: 288386	所以	所 & 以
+text_info id: 686219	所以点	所以 & 点
+text_info id: 798015	所作	所 & 作
+text_info id: 242761	所做的	所 & 做 & 的
+text_info id: 108071	所含	所 & 含
+text_info id: 205832	所围成的	所 & 围 & 成 & 的
+text_info id: 244996	所在	所 & 在
+text_info id: 88645	所在的	所在 & 的
+text_info id: 766845	所在边	所在 & 边
+text_info id: 213530	所夹的	所 & 夹 & 的
+text_info id: 632436	所学	所 & 学
+text_info id: 244355	所对应的	所 & 对应 & 的
+text_info id: 727369	所对的	所 & 对 & 的
+text_info id: 242947	所得	所 & 得
+text_info id: 108801	所成	所 & 成
+text_info id: 766845	所成角	所 & 成 & 角
+text_info id: 771735	所成角为	所 & 成 & 角 & 为
+text_info id: 113013	所成锐	所 & 成 & 锐
+text_info id: 286868	所截	所 & 截
+text_info id: 285873	所有	所 & 有
+text_info id: 309073	所有数	所有 & 数
+text_info id: 727536	所有点	所 & 有点
+text_info id: 684313	所有点	所有 & 点
+text_info id: 309073	所有的	所有 & 的
+text_info id: 793563	所标的	所 & 标的
+text_info id: 676493	所求	所 & 求
+text_info id: 245581	所求点	所 & 求 & 点
+text_info id: 673684	所求的	所 & 求 & 的
+text_info id: 742656	所用	所 & 用
+text_info id: 157491	所画	所 & 画
+text_info id: 162117	所示	所 & 示
+text_info id: 685388	所给的	所 & 给 & 的
+text_info id: 244619	所花	所 & 花
+text_info id: 793563	所获	所 & 获
+text_info id: 793563	所获的	所 & 获 & 的
+text_info id: 793563	所装	所 & 装
+text_info id: 284364	所述	所 & 述
+text_info id: 244619	所需	所 & 需
+text_info id: 292052	扇形地 & 上	扇形 & 地上
+text_info id: 685388	扇门	扇 & 门
+text_info id: 285873	才有	才 & 有
+text_info id: 789972	才能	才 & 能
+text_info id: 245767	扫过	扫 & 过
+text_info id: 764710	找出	找 & 出
+text_info id: 287328	找到	找 & 到
+text_info id: 109395	折叠后	折叠 & 后
+text_info id: 287263	折成	折 & 成
+text_info id: 245491	折痕	折 & 痕
+text_info id: 700659	折至	折 & 至
+text_info id: 787565	折起	折 & 起
+text_info id: 796186	抛物	抛 & 物
+text_info id: 245015	抛物线上	抛物线 & 上
+text_info id: 768533	抛物线上 & 任取	抛物线 & 上任 & 取
+text_info id: 685781	抛物线上 & 位于	抛物线 & 上位 & 于
+text_info id: 168320	抛物线的	抛物线 & 的
+text_info id: 170549	拋物线	拋 & 物 & 线
+text_info id: 674185	拓广	拓 & 广
+text_info id: 665166	拟在	拟 & 在
+text_info id: 760264	挂件	挂 & 件
+text_info id: 685388	按响	按 & 响
+text_info id: 676070	按如图	按 & 如 & 图
+text_info id: 245877	按此	按 & 此
+text_info id: 285893	排列组合	排列 & 组合
+text_info id: 674025	排在	排 & 在
+text_info id: 309073	排成	排 & 成
+text_info id: 718102	排是	排 & 是
+text_info id: 685388	推出的	推出 & 的
+text_info id: 287110	推得	推 & 得
+text_info id: 163883	描出	描 & 出
+text_info id: 163883	描点	描 & 点
+text_info id: 163883	描点法	描 & 点 & 法
+text_info id: 169515	摆放在	摆放 & 在
+text_info id: 793563	摸出	摸 & 出
+text_info id: 288055	支上	支 & 上
+text_info id: 245833	改为	改 & 为
+text_info id: 162128	放在	放 & 在
+text_info id: 108710	放置于	放置 & 于
+text_info id: 768628	放置在	放置 & 在
+text_info id: 286707	故 & 此时	故此 & 时
+text_info id: 673509	故仅	故 & 仅
+text_info id: 108801	故以	故 & 以
+text_info id: 205994	故值	故 & 值
+?text_info id: 697056	故可得点	故 & 可 & 得 & 点
+text_info id: 737408	故可设	故 & 可 & 设
+text_info id: 747731	故可证	故 & 可 & 证
+text_info id: 292501	故对	故 & 对
+text_info id: 764711	故当	故 & 当
+text_info id: 308502	故当且仅当	故 & 当 & 且 & 仅 & 当
+text_info id: 639235	故当点	故 & 当 & 点
+text_info id: 288672	故得	故 & 得
+text_info id: 284823	故有	故 & 有
+text_info id: 743518	故点	故 & 点
+text_info id: 701323	故由	故 & 由
+text_info id: 153466	故设	故 & 设
+text_info id: 730941	故该	故 & 该
+text_info id: 791131	敞口	敞 & 口
+text_info id: 108071	数为	数 & 为
+text_info id: 674025	数列	数 & 列
+text_info id: 723940	数列 & 为	数 & 列为
+text_info id: 309073	数外	数 & 外
+text_info id: 309042	数对	数 & 对
+text_info id: 111053	数形	数 & 形
+text_info id: 293169	数是	数 & 是
+text_info id: 108359	数最多	数 & 最 & 多
+text_info id: 108071	数组	数 & 组
+text_info id: 108071	数表	数 & 表
+text_info id: 702080	数轴上	数轴 & 上
+text_info id: 213558	数阵	数 & 阵
+text_info id: 213558	数集	数 & 集
+text_info id: 699260	整出	整 & 出
+text_info id: 161828	整数值	整 & 数值
+text_info id: 161828	整数值为	整 & 数值 & 为
+text_info id: 171032	整数根	整数 & 根
+text_info id: 760157	整数解	整数 & 解
+text_info id: 759564	整理得	整理 & 得
+text_info id: 797659	文字说明	文字 & 说明
+text_info id: 744325	斐波	斐 & 波
+text_info id: 744325	斐波那契数列	斐 & 波 & 那 & 契 & 数列
+text_info id: 290042	斜三棱柱	斜 & 三 & 棱 & 柱
+text_info id: 110085	斜式	斜 & 式
+text_info id: 685175	新抛物线	新 & 抛物线
+text_info id: 285873	新数列	新 & 数列
+text_info id: 156802	新的	新 & 的
+text_info id: 646059	新结论	新 & 结论
+text_info id: 157560	新题	新 & 题
+text_info id: 662822	方向向	方向 & 向
+text_info id: 793563	方差	方 & 差
+text_info id: 157491	方成	方 & 成
+text_info id: 663387	方法一	方法 & 一
+text_info id: 284848	方法一取	方法 & 一 & 取
+text_info id: 663387	方法二	方法 & 二
+text_info id: 284848	方法二如图	方法 & 二 & 如 & 图
+text_info id: 685081	旋转了	旋转 & 了
+text_info id: 244544	旋转到	旋转 & 到
+text_info id: 685081	旋转到了	旋转 & 到 & 了
+text_info id: 798015	旋转变换	旋转 & 变换
+text_info id: 168320	旋转后	旋转 & 后
+text_info id: 693623	旋转式	旋转 & 式
+text_info id: 672279	旋转至	旋转 & 至
+text_info id: 242922	旋转角	旋转 & 角
+text_info id: 288672	无关的	无关 & 的
+text_info id: 245768	无刻度的	无 & 刻度 & 的
+text_info id: 111053	无实根	无 & 实 & 根
+text_info id: 774642	无数条	无数 & 条
+text_info id: 205857	无斜率	无 & 斜率
+text_info id: 288397	无极值	无 & 极 & 值
+text_info id: 744325	无界	无 & 界
+text_info id: 789972	无盲点	无 & 盲点
+text_info id: 649320	无解	无 & 解
+text_info id: 768464	无零点	无 & 零点
+text_info id: 306491	无需 & 求	无 & 需求
+text_info id: 202453	既是	既 & 是
+text_info id: 238950	时为	时 & 为
+text_info id: 113367	时使	时 & 使
+text_info id: 731132	时取	时 & 取
+text_info id: 285873	时才	时 & 才
+text_info id: 242145	时有	时 & 有
+text_info id: 206072	时有解	时 & 有 & 解
+text_info id: 108017	时称	时 & 称
+text_info id: 244619	时距	时 & 距
+text_info id: 152980	易得	易 & 得
+text_info id: 713158	易求	易 & 求
+text_info id: 288907	易求出	易 & 求 & 出
+text_info id: 243096	易知	易 & 知
+text_info id: 762957	易知 & 交点	易 & 知交 & 点
+text_info id: 760133	易知 & 圆	易知圆
+text_info id: 684313	易知点	易 & 知 & 点
+text_info id: 306038	易证	易 & 证
+text_info id: 108629	是什么	是 & 什么
+text_info id: 674025	是否是	是否 & 是
+text_info id: 108164	是因为	是 & 因为
+text_info id: 789972	显示图	显示 & 图
+text_info id: 244862	暗含着	暗含 & 着
+text_info id: 663822	曲线上	曲线 & 上
+text_info id: 798015	更是	更 & 是
+text_info id: 765465	最优	最 & 优
+text_info id: 632928	最值	最 & 值
+text_info id: 699088	最多	最 & 多
+text_info id: 724486	最大	最 & 大
+text_info id: 764710	最大值	最 & 大 & 值
+text_info id: 687236	最大值为	最 & 大 & 值 & 为
+text_info id: 116073	最大值点	最 & 大 & 值 & 点
+text_info id: 291484	最大公约数	最 & 大 & 公约数
+text_info id: 285855	最大的	最 & 大 & 的
+text_info id: 154395	最大角	最 & 大 & 角
+text_info id: 672070	最小	最 & 小
+text_info id: 649955	最小 & 时	最 & 小时
+text_info id: 748589	最小 & 项	最 & 小项
+text_info id: 109139	最小值	最 & 小 & 值
+text_info id: 687236	最小值为	最 & 小 & 值 & 为
+text_info id: 308534	最小值点	最 & 小 & 值 & 点
+text_info id: 306261	最小的	最 & 小 & 的
+text_info id: 723940	最小项	最 & 小 & 项
+text_info id: 709866	最小项	最 & 小项
+text_info id: 742656	最少	最 & 少
+text_info id: 687552	最短	最 & 短
+text_info id: 789972	最短 & 距离	最 & 短距离
+text_info id: 110187	最远	最 & 远
+text_info id: 169639	最长	最 & 长
+text_info id: 244119	有一个	有 & 一个
+text_info id: 685388	有一人	有 & 一 & 人
+text_info id: 159603	有一条	有 & 一 & 条
+text_info id: 650543	有一点	有 & 一点
+text_info id: 244544	有一组	有 & 一 & 组
+text_info id: 787780	有三个	有 & 三 & 个
+text_info id: 293169	有三项	有 & 三 & 项
+text_info id: 116073	有且	有 & 且
+text_info id: 731193	有且仅有	有 & 且 & 仅 & 有
+text_info id: 116073	有且只有	有 & 且 & 只 & 有
+text_info id: 212532	有且只有	有 & 且 & 只有
+text_info id: 662306	有两个	有 & 两 & 个
+text_info id: 287732	有两条	有 & 两 & 条
+text_info id: 238956	有交点	有 & 交点
+text_info id: 154395	有人	有 & 人
+text_info id: 662306	有何	有 & 何
+text_info id: 632436	有可能	有 & 可能
+text_info id: 242466	有四个	有 & 四 & 个
+text_info id: 242180	有效途径	有效 & 途径
+text_info id: 639824	有无	有 & 无
+text_info id: 634221	有没有	有 & 没 & 有
+text_info id: 742656	有点	有 & 点
+text_info id: 242180	有用的	有用 & 的
+text_info id: 699260	有穷	有 & 穷
+text_info id: 723363	有解	有 & 解
+text_info id: 729586	有趣的	有趣 & 的
+text_info id: 744325	有限个	有限 & 个
+text_info id: 109581	有零点	有 & 零点
+text_info id: 794112	末项	末 & 项
+text_info id: 246430	李老师	李 & 老师
+text_info id: 665166	村建	村 & 建
+text_info id: 677241	条件下	条件 & 下
+text_info id: 245706	条件的	条件 & 的
+text_info id: 685388	条形图	条形 & 图
+text_info id: 210618	条数	条 & 数
+text_info id: 731193	极值	极 & 值
+text_info id: 677134	极值点	极 & 值 & 点
+text_info id: 111053	极大值	极大 & 值
+text_info id: 116073	极大值点	极大值 & 点
+text_info id: 292378	极小值	极 & 小 & 值
+text_info id: 288397	极小值点	极 & 小 & 值 & 点
+text_info id: 158303	构成的	构成 & 的
+text_info id: 649653	构造出	构造 & 出
+text_info id: 768464	构造函数	构造 & 函数
+text_info id: 682860	某一	某 & 一
+text_info id: 674001	某一 & 时刻	某 & 一时 & 刻
+text_info id: 238463	某一边	某 & 一边
+text_info id: 674025	某一项	某 & 一 & 项
+text_info id: 718102	某位	某 & 位
+text_info id: 116425	某公园	某 & 公园
+text_info id: 739325	某处	某 & 处
+text_info id: 245116	某时刻	某 & 时刻
+text_info id: 665166	某村	某 & 村
+text_info id: 737821	某条	某 & 条
+text_info id: 718102	某校	某 & 校
+text_info id: 789972	某次	某 & 次
+text_info id: 158039	某边	某 & 边
+text_info id: 163883	查到	查 & 到
+text_info id: 793563	标有	标 & 有
+text_info id: 306491	标注出	标注 & 出
+text_info id: 171032	根为	根 & 为
+text_info id: 156731	根据上述	根据 & 上述
+text_info id: 687551 	根都	根 & 都
+text_info id: 156705	格点	格 & 点
+text_info id: 157560	框中	框 & 中
+text_info id: 791131	桌面上	桌面 & 上
+text_info id: 673378	森林公园	森林 & 公园
+text_info id: 291085	棱柱	棱 & 柱
+text_info id: 608252	棱长	棱 & 长
+text_info id: 205832	椭圆 & 弧	椭 & 圆弧
+text_info id: 730903	椭圆上	椭圆 & 上
+text_info id: 210156	椭点	椭 & 点
+text_info id: 288672	横坐标轴	横 & 坐标轴
+text_info id: 152980	横纵坐标	横 & 纵坐标
+text_info id: 730941	次差	次 & 差
+text_info id: 760133	欲使	欲 & 使
+text_info id: 685388	歌曲名称	歌曲 & 名称
+text_info id: 288912	正三棱柱	正 & 三 & 棱 & 柱
+text_info id: 791441	正三角形	正 & 三角形
+text_info id: 791441	正三角形内	正三角形 & 内
+text_info id: 284775	正下方	正 & 下 & 方
+text_info id: 789972	正东 & 方向	正 & 东方 & 向
+text_info id: 791131	正中间	正 & 中间
+text_info id: 726186	正切值	正切 & 值
+text_info id: 679513	正切值为	正切 & 值 & 为
+text_info id: 789972	正北 & 方向	正 & 北方 & 向
+text_info id: 89703	正半轴	正 & 半 & 轴
+text_info id: 634222	正半轴上	正 & 半 & 轴 & 上
+?text_info id: 287868	正奇数	正 & 奇数
+?text_info id: 287868	正实数	正 & 实数
+text_info id: 203758	正实根	正 & 实 & 根
+text_info id: 615908	正弦值	正弦 & 值
+text_info id: 284989	正弦值为	正弦 & 值 & 为
+text_info id: 670210	正形	正 & 形
+text_info id: 244613	正数	正 & 数
+text_info id: 242199	正整数	正 & 整数
+text_info id: 288375	正方向	正 & 方向
+text_info id: 242368	正方向	正方 & 向
+text_info id: 763003	正无穷	正 & 无穷
+text_info id: 288993	正有理数	正 & 有理数
+text_info id: 108017	正的	正 & 的
+text_info id: 718102	正相关	正 & 相关
+text_info id: 650995	正负半轴上	正负 & 半 & 轴 & 上
+text_info id: 763003	正零点	正 & 零点
+text_info id: 760764	此值	此 & 值
+text_info id: 244880	此圆	此 & 圆
+text_info id: 153466	此式	此 & 式
+text_info id: 743182	此点	此 & 点
+text_info id: 152980	此种	此 & 种
+text_info id: 284609	此题	此 & 题
+text_info id: 214567	段线	段 & 线
+text_info id: 163883	每一个	每 & 一个
+text_info id: 242415	每一条	每 & 一 & 条
+text_info id: 730941	每一次	每 & 一 & 次
+text_info id: 674025	每一项	每 & 一 & 项
+text_info id: 156705	每个	每 & 个
+text_info id: 309073	每个数	每 & 个 & 数
+text_info id: 661808	每个角	每个 & 角
+text_info id: 793563	每位	每 & 位
+text_info id: 108083	每种	每 & 种
+text_info id: 765517	每秒	每 & 秒
+text_info id: 685081	每秒钟	每 & 秒 & 钟
+text_info id: 669247	每组	每 & 组
+text_info id: 239161	比动点	比 & 动 & 点
+text_info id: 760133	比点	比 & 点
+text_info id: 170559	比能	比 & 能
+text_info id: 790835	水平面上	水平 & 面上
+text_info id: 687177	求 & 实数	求实 & 数
+text_info id: 288037	求 & 异面	求异 & 面
+text_info id: 673378	求乙	求 & 乙
+text_info id: 238412	求以	求 & 以
+text_info id: 689800	求以点	求 & 以 & 点
+text_info id: 113367	求使	求 & 使
+text_info id: 238412	求出	求 & 出
+text_info id: 245491	求出 & 线段	求 & 出线 & 段
+text_info id: 687552	求出点	求 & 出 & 点
+text_info id: 244783	求出过	求 & 出 & 过
+text_info id: 687177	求函数	求 & 函数
+text_info id: 737408	求动	求 & 动
+text_info id: 111812	求四	求 & 四
+?text_info id: 661328	求圆	求 & 圆
+text_info id: 109944	求导	求 & 导
+text_info id: 109395	求异	求 & 异
+?text_info id: 661328	求弦	求 & 弦
+text_info id: 306493	求当	求 & 当
+text_info id: 158715	求当点	求 & 当 & 点
+text_info id: 669247	求恰	求 & 恰
+text_info id: 731529	求根	求 & 根
+text_info id: 244582	求此	求 & 此
+text_info id: 686271	求点	求 & 点
+text_info id: 290042	求角	求 & 角
+text_info id: 713158	求解得	求解 & 得
+text_info id: 698083	求该	求 & 该
+text_info id: 727611	求该圆	求 & 该 & 圆
+text_info id: 243606	求边	求 & 边
+text_info id: 157841	求过	求 & 过
+text_info id: 723341	求过点	求 & 过 & 点
+text_info id: 288397	求通项	求 & 通 & 项
+text_info id: 669247	汽车厂	汽车 & 厂
+text_info id: 696700	没有	没 & 有
+text_info id: 693675	河 & 边沿	河边 & 沿
+text_info id: 742656	沿 & 线段	沿线 & 段
+text_info id: 287263	沿其	沿 & 其
+text_info id: 109395	沿其 & 中位线	沿 & 其中 & 位 & 线
+text_info id: 244619	沿图	沿 & 图
+text_info id: 306493	沿着边	沿着 & 边
+text_info id: 239128	沿边	沿 & 边
+text_info id: 288386	法一	法 & 一
+text_info id: 288386	法二	法 & 二
+text_info id: 292372	法向量	法 & 向量
+text_info id: 286938	注意到	注意 & 到
+text_info id: 242689	派生点	派生 & 点
+text_info id: 789972	测得	测 & 得
+text_info id: 693623	测得点	测 & 得 & 点
+text_info id: 762440	消元	消 & 元
+text_info id: 681616	消去	消 & 去
+text_info id: 152804	消掉	消 & 掉
+text_info id: 791131	液面	液 & 面
+text_info id: 244619	游完	游 & 完
+text_info id: 242275	滑动角	滑动 & 角
+text_info id: 245759	滑至点	滑 & 至 & 点
+text_info id: 759564	满足条件	满足 & 条件
+text_info id: 246686	满足条件的	满足 & 条件 & 的
+text_info id: 676493	满足要求	满足 & 要求
+text_info id: 284848	点且	点 & 且
+text_info id: 157358	点中	点 & 中
+text_info id: 676490	点为	点 & 为
+text_info id: 156731	点于	点 & 于
+text_info id: 163885	点作	点 & 作
+text_info id: 703935	点先	点 & 先
+text_info id: 724319	点到	点 & 到
+text_info id: 674744	点后	点 & 后
+text_info id: 712663	点坐标	点 & 坐标
+text_info id: 245491	点处	点 & 处
+text_info id: 759564	点外	点 & 外
+text_info id: 670846	点必	点 & 必
+text_info id: 734285	点时	点 & 时
+text_info id: 238410	点有	点 & 有
+text_info id: 687494	点落在	点 & 落 & 在
+text_info id: 763637	点角	点 & 角
+text_info id: 159332	熟悉的	熟悉 & 的
+text_info id: 693675	牧马人	牧马 & 人
+text_info id: 737750	特列	特 & 列
+text_info id: 108629	特殊的	特殊 & 的
+text_info id: 674025	独特的	独特 & 的
+text_info id: 699500	独立思考	独立 & 思考
+text_info id: 685388	猜对	猜 & 对
+text_info id: 244996	现分	现 & 分
+text_info id: 157841	现将	现 & 将
+text_info id: 687494	现把	现 & 把
+text_info id: 90726	现有	现 & 有
+text_info id: 673378	现甲	现 & 甲
+text_info id: 116425	现要	现 & 要
+text_info id: 793563	球上	球 & 上
+text_info id: 287995	球面 & 交	球 & 面交
+text_info id: 665166	生态环境	生态 & 环境
+text_info id: 674025	用先	用 & 先
+text_info id: 798015	用到	用 & 到
+text_info id: 242161	用来	用 & 来
+text_info id: 244619	由 & 于小慧	由于 & 小慧
+text_info id: 640748	由 & 非负	由非 & 负
+text_info id: 692172	由上	由 & 上
+text_info id: 210156	由以	由 & 以
+text_info id: 684816	由光	由 & 光
+text_info id: 674025	由前	由 & 前
+text_info id: 794558	由图	由 & 图
+text_info id: 787780	由导 & 数的几何	由 & 导数 & 的 & 几何
+text_info id: 731529	由式	由 & 式
+text_info id: 210156	由根	由 & 根
+text_info id: 686163	由此	由 & 此
+text_info id: 763637	由点	由 & 点
+text_info id: 205832	由题	由 & 题
+text_info id: 157491	甲乙	甲 & 乙
+text_info id: 157595	甲向	甲 & 向
+text_info id: 244619	电动汽车	电动 & 汽车
+text_info id: 244544	画了	画 & 了
+text_info id: 242161	画出	画 & 出
+text_info id: 284609	画图	画 & 图
+text_info id: 649577	画圆	画 & 圆
+text_info id: 157426	画弧	画 & 弧
+text_info id: 113080	直 & 线	直线
+text_info id: 291085	直三	直 & 三
+text_info id: 291085	直三棱柱	直 & 三 & 棱 & 柱
+text_info id: 287263	直二面角	直 & 二面角
+text_info id: 791131	直棱柱	直 & 棱 & 柱
+text_info id: 245877	直线上	直线 & 上
+text_info id: 622545	直线上且	直线 & 上 & 且
+text_info id: 243096	直线运动	直线 & 运动
+text_info id: 727536	直角三角形	直角 & 三角形
+text_info id: 744930	直角三角板	直角 & 三角板
+text_info id: 88051	直角坐标	直角 & 坐标
+text_info id: 288055	直角坐标 & 系	直角 & 坐标系
+text_info id: 686297	直角坐标 & 系中	直角 & 坐标系 & 中
+text_info id: 243686	直角坐标系	直角 & 坐标系
+text_info id: 292491	直角坐标系设	直角 & 坐标系 & 设
+text_info id: 162128	直角边	直角 & 边
+text_info id: 152785	直角边时	直角 & 边 & 时
+text_info id: 684815	相交	相 & 交
+text_info id: 731548	相交于	相交 & 于
+text_info id: 238411	相交于点	相交 & 于 & 点
+text_info id: 286121	相交弦	相交 & 弦
+text_info id: 734187	相似比	相似 & 比
+text_info id: 159532	相似法	相似 & 法
+text_info id: 718102	相关系数	相关 & 系数
+text_info id: 205772	相减	相 & 减
+text_info id: 244996	相切于	相切 & 于
+text_info id: 165896	相切于点	相切 & 于 & 点
+text_info id: 238714	相切时	相切 & 时
+text_info id: 734439	相反数	相反 & 数
+text_info id: 794112	相同的	相同 & 的
+text_info id: 763637	相对于	相对 & 于
+text_info id: 674001	相应的	相应 & 的
+text_info id: 109581	相异	相 & 异
+text_info id: 663099	相离	相 & 离
+text_info id: 663387	相等	相 & 等
+text_info id: 764710	相等的	相 & 等 & 的
+text_info id: 308691	相等的	相等 & 的
+text_info id: 245070 	相较于	相 & 较 & 于
+text_info id: 702080	相遇后	相遇 & 后
+text_info id: 286938	真假	真 & 假
+text_info id: 286938	真命题	真 & 命题
+text_info id: 168042	瞬时 & 针	瞬 & 时针
+text_info id: 731548	知其	知 & 其
+text_info id: 696917	知各点	知 & 各 & 点
+text_info id: 774642	知圆	知 & 圆
+text_info id: 113285	知当	知 & 当
+text_info id: 670085	知易	知 & 易
+text_info id: 726186	知点	知 & 点
+text_info id: 161908	知该	知 & 该
+text_info id: 679513	短时	短 & 时
+text_info id: 693675	短路线	短 & 路线
+text_info id: 288038	短轴	短 & 轴
+text_info id: 285872	短轴上	短 & 轴 & 上
+text_info id: 242180	研究性	研究 & 性
+text_info id: 242761	硬纸片	硬 & 纸片
+text_info id: 703935	确定的	确定 & 的
+text_info id: 702080	示数	示 & 数
+text_info id: 696671	离 & 心率	离心 & 率
+text_info id: 206670	离心率	离心 & 率
+text_info id: 718102	种数	种 & 数
+text_info id: 244489	科普书上	科普 & 书 & 上
+text_info id: 685081	秒钟	秒 & 钟
+text_info id: 665166	积极开展	积极 & 开展
+text_info id: 108017	称此	称 & 此
+text_info id: 244119	称点	称 & 点
+text_info id: 632333	称轴为	称 & 轴 & 为
+text_info id: 761212	移动到	移动 & 到
+text_info id: 676070	移动到 & 点	移动 & 到点
+text_info id: 170607	移至	移 & 至
+text_info id: 153466	移项	移 & 项
+text_info id: 309073	空集	空 & 集
+text_info id: 246686	端点时	端点 & 时
+text_info id: 157426	符号语言	符号 & 语言
+text_info id: 244355	符合条件	符合 & 条件
+text_info id: 687361	符合条件的	符合 & 条件 & 的
+text_info id: 690260	符合要求	符合 & 要求
+text_info id: 205994	符合要求的	符合 & 要求 & 的
+text_info id: 690913	第 & 1	第1
+text_info id: 690913	第 & 2	第2
+text_info id: 690913	第 & 3	第3
+text_info id: 285873	第一个	第一 & 个
+text_info id: 674025	第一位	第一 & 位
+text_info id: 238950	第一次	第一 & 次
+text_info id: 635726	第一步	第一 & 步
+text_info id: 157426	第一种	第一 & 种
+text_info id: 763637	第一象限	第一 & 象限
+text_info id: 152980	第一象限内	第一 & 象限 & 内
+text_info id: 285873	第一项	第一 & 项
+text_info id: 158039	第三个	第三 & 个
+text_info id: 157426	第三种	第三 & 种
+text_info id: 305556	第三边	第三 & 边
+text_info id: 674025	第二位	第二 & 位
+text_info id: 238950	第二次	第二 & 次
+text_info id: 635726	第二步	第二 & 步
+text_info id: 157426	第二种	第二 & 种
+text_info id: 674025	第二项	第二 & 项
+text_info id: 674025	第几项	第 & 几 & 项
+text_info id: 242275	第四种	第四 & 种
+text_info id: 158715	第秒	第 & 秒
+text_info id: 284819	等 & 号	等号
+text_info id: 747422	等 & 边	等边
+text_info id: 113185	等于	等 & 于
+text_info id: 640748	等于零	等于 & 零
+text_info id: 677134	等价于	等价 & 于
+text_info id: 111091	等号	等 & 号
+text_info id: 640748	等差数列	等差 & 数列
+text_info id: 708859	等式	等 & 式
+text_info id: 287110	等比中项	等 & 比 & 中 & 项
+?text_info id: 287868	等比数列	等 & 比 & 数列
+text_info id: 794112	等比数列 & 为	等 & 比 & 数 & 列为
+text_info id: 243116	等积法	等 & 积 & 法
+text_info id: 664076	等腰三角 & 形	等腰 & 三角形
+text_info id: 791728	等腰三角 & 形有	等腰 & 三角形 & 有
+text_info id: 169639	等腰三角形	等腰 & 三角形
+text_info id: 239069	等腰三角形时	等腰 & 三角形 & 时
+text_info id: 700012	等腰直角三角形	等腰 & 直角 & 三角形
+text_info id: 170791	等腰直角三角形由	等腰 & 直角 & 三角形 & 由
+text_info id: 245768	等距的	等距 & 的
+text_info id: 244544	等邻边	等 & 邻 & 边
+text_info id: 646059	等量	等 & 量
+text_info id: 762865	等高	等 & 高
+text_info id: 157491	答图	答 & 图
+text_info id: 284609	答题卡上	答 & 题 & 卡 & 上
+text_info id: 159603	筝型	筝 & 型
+text_info id: 159603	筝形	筝 & 形
+text_info id: 245768	简要的	简要 & 的
+text_info id: 763003	类似于	类似 & 于
+text_info id: 768628	精确到	精确 & 到
+text_info id: 718102	约为	约 & 为
+text_info id: 626705	纵坐标为	纵坐标 & 为
+text_info id: 632206	线上	线 & 上
+text_info id: 242235	线交	线 & 交
+text_info id: 245226	线段	线 & 段
+text_info id: 287732	线段长	线段 & 长
+text_info id: 766703	线段间	线段 & 间
+text_info id: 112514	组中	组 & 中
+text_info id: 669247	组中用	组 & 中 & 用
+text_info id: 243686	组合成	组合 & 成
+text_info id: 640748	组成的	组成 & 的
+text_info id: 734285	经过点	经过 & 点
+text_info id: 244489	经验 & 证	经 & 验证
+text_info id: 157560	结论当点	结论 & 当 & 点
+text_info id: 724418	绕点	绕 & 点
+text_info id: 764710	绕着	绕 & 着
+text_info id: 684865	绕顶点	绕 & 顶点
+text_info id: 214567	给 & 以	给以
+text_info id: 634222	给出	给 & 出
+text_info id: 687177	给定	给 & 定
+text_info id: 306491	给定的	给 & 定 & 的
+text_info id: 285873	给定的	给定 & 的
+text_info id: 111849	综上	综 & 上
+text_info id: 676483	翻折	翻 & 折
+text_info id: 700012	翻折后	翻 & 折 & 后
+text_info id: 650366	而成	而 & 成
+text_info id: 634221	而点	而 & 点
+text_info id: 692172	而行	而 & 行
+text_info id: 796236	联立	联 & 立
+text_info id: 731048	联立方程	联 & 立方 & 程
+text_info id: 713158	联立方程 & 组	联 & 立 & 方程组
+text_info id: 88657	联立方程 & 组为	联 & 立 & 方程组 & 为
+text_info id: 674744	能为	能 & 为
+text_info id: 245729	腰作	腰 & 作
+text_info id: 163883	自变量	自 & 变量
+text_info id: 159332	自变量值	自变量 & 值
+text_info id: 116073	自然对数	自然 & 对 & 数
+text_info id: 744325	自生集	自 & 生 & 集
+text_info id: 242947	至图	至 & 图
+text_info id: 309042	至多	至 & 多
+text_info id: 766848	至多为	至多 & 为
+text_info id: 308640	至多有	至 & 多 & 有
+text_info id: 286707	至多有	至多 & 有
+text_info id: 787780	至少有	至少 & 有
+text_info id: 285855	至少有一个	至少 & 有 & 一个
+text_info id: 634221	至点	至 & 点
+text_info id: 287110	若不然	若 & 不 & 然
+text_info id: 157491	若丙	若 & 丙
+text_info id: 789949	若动点	若 & 动 & 点
+text_info id: 287110	若取	若 & 取
+text_info id: 715608	若图	若 & 图
+text_info id: 161908	若圆	若 & 圆
+text_info id: 88645	若存在	若 & 存在
+text_info id: 247763	若干次	若干 & 次
+text_info id: 288672	若当	若 & 当
+text_info id: 634221	若有	若 & 有
+text_info id: 244482	若此	若 & 此
+text_info id: 686271	若点	若 & 点
+text_info id: 242415	若用	若 & 用
+text_info id: 744931	若由点	若 & 由 & 点
+text_info id: 646808	若能	若 & 能
+text_info id: 167731	若要使	若 & 要 & 使
+text_info id: 108017	若记	若 & 记
+text_info id: 159532	若设	若 & 设
+text_info id: 650366	若该	若 & 该
+text_info id: 664154	若过	若 & 过
+text_info id: 693623	落下	落 & 下
+text_info id: 242192	落到	落 & 到
+text_info id: 290042	落在	落 & 在
+text_info id: 710771	虚轴	虚 & 轴
+text_info id: 243686	蛋线	蛋 & 线
+text_info id: 108071	行不全	行 & 不 & 全
+text_info id: 108071	行各有	行 & 各 & 有
+text_info id: 108071	行第	行 & 第
+text_info id: 247763	行进路线	行进 & 路线
+text_info id: 157491	行驶的	行驶 & 的
+text_info id: 157426	补全	补 & 全
+text_info id: 163883	表中	表 & 中
+text_info id: 744325	表示成	表示 & 成
+text_info id: 244355	表示的	表示 & 的
+text_info id: 793563	袋中	袋 & 中
+text_info id: 245767	被截	被 & 截
+text_info id: 285855	被选	被 & 选
+text_info id: 699087	裁剪时	裁剪 & 时
+text_info id: 793563	装有	装 & 有
+text_info id: 686219	要使	要 & 使
+text_info id: 156313	要想	要 & 想
+text_info id: 246117	要证	要 & 证
+text_info id: 685388	观测值	观测 & 值
+text_info id: 292052	规划设计	规划 & 设计
+text_info id: 661926	规法	规 & 法
+text_info id: 766845	角为	角 & 为
+text_info id: 239196	角平分线	角 & 平分 & 线
+text_info id: 156895	角平分线上	角 & 平分 & 线 & 上
+text_info id: 157052	角时	角 & 时
+text_info id: 111053	解为	解 & 为
+text_info id: 88657	解之	解 & 之
+text_info id: 743182	解之可得	解 & 之 & 可 & 得
+text_info id: 723341	解之得	解 & 之 & 得
+text_info id: 156313	解决了	解决 & 了
+text_info id: 245204	解决问题	解决 & 问题
+text_info id: 288037	解出	解 & 出
+text_info id: 672287	解合	解 & 合
+text_info id: 108646	解得	解 & 得
+text_info id: 204514	解得点	解 & 得 & 点
+text_info id: 687551 	解方程	解 & 方程
+text_info id: 742402	解方程组	解 & 方程组
+text_info id: 760764	解析式	解析 & 式
+text_info id: 284609	解法中	解法 & 中
+text_info id: 284210	解记	解 & 记
+text_info id: 734323	解集	解 & 集
+text_info id: 674025	计算出	计算 & 出
+text_info id: 737750	计算结果	计算 & 结果
+text_info id: 112514	记为	记 & 为
+text_info id: 242922	记为点	记 & 为 & 点
+text_info id: 285855	记作	记 & 作
+text_info id: 243198	记其	记 & 其
+text_info id: 628997	记圆	记 & 圆
+text_info id: 694097	记点	记 & 点
+text_info id: 723590	设 & 点	设点
+text_info id: 768540	设丙	设 & 丙
+text_info id: 213530	设两	设 & 两
+text_info id: 724418	设为	设 & 为
+text_info id: 157491	设乙	设 & 乙
+text_info id: 156736	设交	设 & 交
+text_info id: 210156	设其	设 & 其
+text_info id: 665609	设动点	设 & 动 & 点
+text_info id: 214591	设四	设 & 四
+text_info id: 698083	设圆	设 & 圆
+text_info id: 650543	设在	设 & 在
+text_info id: 288055	设实	设 & 实
+text_info id: 790602	设得	设 & 得
+text_info id: 109395	设所	设 & 所
+text_info id: 239196	设此	设 & 此
+text_info id: 693623	设水	设 & 水
+text_info id: 157491	设甲	设 & 甲
+text_info id: 287263	设知	设 & 知
+text_info id: 698083	设该	设 & 该
+text_info id: 765489	设边	设 & 边
+text_info id: 205832	设过	设 & 过
+text_info id: 284697	设过点	设 & 过 & 点
+text_info id: 213253	设面	设 & 面
+text_info id: 711018	证得	证 & 得
+text_info id: 205728	证明之	证明 & 之
+text_info id: 244465	证明请你	证明 & 请 & 你
+text_info id: 731540	证法	证 & 法
+text_info id: 244544	试 & 探究	试探 & 究
+text_info id: 693675	试在	试 & 在
+text_info id: 774831	试在 & 线段	试 & 在线 & 段
+text_info id: 154395	试将	试 & 将
+text_info id: 209938	试求	试 & 求
+text_info id: 292491	试求 & 异面	试 & 求异 & 面
+text_info id: 88657	试求出	试 & 求 & 出
+text_info id: 647041	试求出 & 线段	试 & 求 & 出线 & 段
+text_info id: 774670	试求出发	试 & 求 & 出发
+text_info id: 247422	试求出点	试 & 求 & 出 & 点
+text_info id: 210156	试求出该	试 & 求 & 出 & 该
+text_info id: 202840	试证	试 & 证
+text_info id: 681616	该值	该 & 值
+text_info id: 305556	该命题	该 & 命题
+text_info id: 156731	该图形	该 & 图形
+text_info id: 763587	该圆	该 & 圆
+text_info id: 681639	该圆上	该 & 圆 & 上
+text_info id: 244880	该定值	该 & 定 & 值
+text_info id: 113285	该式	该 & 式
+text_info id: 790097	该比值	该 & 比值
+text_info id: 628997	该焦点	该 & 焦点
+text_info id: 718102	该生	该 & 生
+text_info id: 245767	该直线	该 & 直线
+text_info id: 242180	该题	该 & 题
+text_info id: 246766	请 & 求出	请求 & 出
+text_info id: 724486	请 & 求出点	请求 & 出 & 点
+text_info id: 286938	请以	请 & 以
+text_info id: 737750	请你	请 & 你
+text_info id: 664076	请求出	请求 & 出
+text_info id: 764711	请求出此	请求 & 出 & 此
+text_info id: 244582	请求出点	请求 & 出 & 点
+text_info id: 693074	请求出该	请求 & 出 & 该
+text_info id: 665828	请用	请 & 用
+text_info id: 759461	请证明	请 & 证明
+text_info id: 242761	课外活动	课外 & 活动
+text_info id: 676486	象限内	象限 & 内
+text_info id: 684287	负半轴	负 & 半 & 轴
+text_info id: 243208	负半轴上	负 & 半 & 轴 & 上
+text_info id: 676504	负半轴于点	负 & 半 & 轴 & 于 & 点
+text_info id: 171032	负整数	负 & 整数
+text_info id: 772956	负方向	负 & 方向
+text_info id: 763003	负无穷	负 & 无穷
+text_info id: 661926	费马点	费马 & 点
+text_info id: 293025	起到	起 & 到
+text_info id: 152804	越大	越 & 大
+text_info id: 113277	趋向于	趋向 & 于
+text_info id: 763003	趋近	趋 & 近
+text_info id: 763003	趋近于	趋 & 近 & 于
+text_info id: 162128	足够大	足够 & 大
+text_info id: 684865	足够大的	足够 & 大 & 的
+text_info id: 170874	足够的	足够 & 的
+text_info id: 238950	距 & 离为	距离 & 为
+text_info id: 639343	距离为	距离 & 为
+text_info id: 116425	距离和	距离 & 和
+text_info id: 669247	跟党走	跟 & 党 & 走
+text_info id: 632206	路径长	路径 & 长
+text_info id: 723773	路程长	路程 & 长
+text_info id: 709360	转化为	转化 & 为
+text_info id: 246117	转化到	转化 & 到
+text_info id: 109944	转点	转 & 点
+text_info id: 210126	转证	转 & 证
+text_info id: 242199	轴上	轴 & 上
+text_info id: 158123	轴上一点	轴 & 上 & 一点
+text_info id: 243208	轴且	轴 & 且
+text_info id: 238412	轴于	轴 & 于
+text_info id: 156731	轴于点	轴 & 于 & 点
+text_info id: 742656	轴交	轴 & 交
+text_info id: 662306	轴交于	轴 & 交 & 于
+text_info id: 238410	轴交于点	轴 & 交 & 于 & 点
+text_info id: 242505	轴作	轴 & 作
+text_info id: 169690	轴右	轴 & 右
+text_info id: 245538	轴向	轴 & 向
+text_info id: 670943	轴向右	轴 & 向 & 右
+text_info id: 159487	轴外	轴 & 外
+text_info id: 687754	轴对称性	轴对称 & 性
+text_info id: 704701	轴对称点	轴对称 & 点
+text_info id: 113285	轴得	轴 & 得
+text_info id: 159332	轴成	轴 & 成
+text_info id: 208644	轴时	轴 & 时
+text_info id: 686323	轴有	轴 & 有
+text_info id: 288375	轴正	轴 & 正
+text_info id: 170953	轴点	轴 & 点
+text_info id: 108730	较大的	较 & 大 & 的
+text_info id: 669247	较小的	较 & 小 & 的
+text_info id: 744930	较短的	较 & 短 & 的
+text_info id: 635726	辅助线	辅助 & 线
+text_info id: 157841	边 & 上	边上
+text_info id: 242161	边上	边 & 上
+text_info id: 626705	边上以	边上 & 以
+text_info id: 749959	边上时	边上 & 时
+text_info id: 159008	边中	边 & 中
+text_info id: 170607	边于	边 & 于
+text_info id: 677234	边于点	边 & 于 & 点
+text_info id: 242922	边交于	边 & 交 & 于
+text_info id: 306095	边作	边 & 作
+text_info id: 765465	边均	边 & 均
+text_info id: 159495	边形	边 & 形
+text_info id: 159495	边形 & 相邻	边 & 形相 & 邻
+text_info id: 152785	边时	边 & 时
+text_info id: 763637	边界上	边界 & 上
+text_info id: 245249	边长	边 & 长
+text_info id: 214591	边长为	边长 & 为
+text_info id: 245949	达到	达 & 到
+text_info id: 242161	达到最佳	达到 & 最佳
+text_info id: 304664	过动点	过 & 动 & 点
+text_info id: 743518	过原点	过 & 原点
+text_info id: 760133	过定点	过 & 定点
+text_info id: 243661	过点	过 & 点
+text_info id: 666897	过点作	过 & 点 & 作
+text_info id: 747538	过程中	过程 & 中
+text_info id: 687551 	过边	过 & 边
+text_info id: 739325	运动了	运动 & 了
+text_info id: 742899	运动到	运动 & 到
+text_info id: 702080	运动到达	运动 & 到达
+text_info id: 796443	运动时	运动 & 时
+text_info id: 737338	运动至	运动 & 至
+text_info id: 238357	运动边	运动 & 边
+text_info id: 702080	返回到	返回 & 到
+text_info id: 244619	返回时	返回 & 时
+text_info id: 108071	还有	还 & 有
+text_info id: 632436	这一	这 & 一
+text_info id: 284925	这三点	这 & 三点
+text_info id: 661396	这两点	这 & 两 & 点
+text_info id: 170964	这个值	这个 & 值
+text_info id: 244489	这座	这 & 座
+text_info id: 154395	这是	这 & 是
+text_info id: 247763	这束	这 & 束
+text_info id: 245877	这条	这 & 条
+text_info id: 713748	这样的	这样 & 的
+text_info id: 242199	这组	这 & 组
+text_info id: 156705	这边	这 & 边
+text_info id: 685388	这首歌	这 & 首 & 歌
+text_info id: 163883	进行了	进行 & 了
+text_info id: 242761	连接了	连接 & 了
+text_info id: 238571	连接点	连接 & 点
+text_info id: 163883	连线	连 & 线
+text_info id: 309042	连续的	连续 & 的
+text_info id: 170536	连行	连 & 行
+text_info id: 697947	追上	追 & 上
+text_info id: 243208	适合的	适合 & 的
+text_info id: 157841	适当的	适当 & 的
+text_info id: 108710	选出的	选出 & 的
+text_info id: 284925	选取	选 & 取
+text_info id: 116425	选地址	选 & 地址
+text_info id: 745216	选填	选 & 填
+text_info id: 633043	选择题A	选择题 & A
+text_info id: 791131	透明的	透明 & 的
+text_info id: 206038	递增 & 函数	递 & 增函数
+text_info id: 108164	递推	递 & 推
+text_info id: 245833	通过观察	通过 & 观察
+text_info id: 674025	通项	通 & 项
+text_info id: 108017	通项公式	通 & 项 & 公式
+text_info id: 744325	那契	那 & 契
+text_info id: 159603	邻边	邻 & 边
+text_info id: 242136	部分的	部分 & 的
+text_info id: 628997	都不是	都 & 不 & 是
+text_info id: 110217	都不等于	都 & 不 & 等于
+text_info id: 285886	都不能	都 & 不 & 能
+?text_info id: 211346	都为	都 & 为
+text_info id: 744325	都可以	都 & 可以
+?text_info id: 211346	都在	都 & 在
+text_info id: 108017	都存在	都 & 存在
+text_info id: 641106	都是	都 & 是
+text_info id: 761212	都有	都 & 有
+text_info id: 674025	都等于	都 & 等于
+text_info id: 242761	重 & 合在一起	重合 & 在 & 一起
+text_info id: 158123	重合时	重合 & 时
+text_info id: 284210	重根	重 & 根
+text_info id: 112296	链接	链 & 接
+text_info id: 161828	销售价格	销售 & 价格
+text_info id: 289109	锐二面角	锐 & 二面角
+text_info id: 163883	锐角三角 & 函数	锐角 & 三角函数
+text_info id: 154395	锐角三角形	锐角 & 三角形
+text_info id: 242397	长为	长 & 为
+text_info id: 287732	长半轴长	长 & 半 & 轴 & 长
+text_info id: 761212	长及	长 & 及
+text_info id: 90726	长取	长 & 取
+text_info id: 632206	长是	长 & 是
+text_info id: 665678	长直角边	长 & 直角 & 边
+text_info id: 685921	长直角边时	长 & 直角 & 边 & 时
+text_info id: 108647	长轴	长 & 轴
+text_info id: 113185	长轴长	长 & 轴 & 长
+text_info id: 685388	门上的	门 & 上 & 的
+text_info id: 157491	问丙	问 & 丙
+text_info id: 306095	问中	问 & 中
+text_info id: 742656	问当	问 & 当
+text_info id: 284364	问知	问 & 知
+text_info id: 287623	问过	问 & 过
+text_info id: 285893	阶数	阶 & 数
+text_info id: 162137	随点	随 & 点
+text_info id: 108071	集合组	集合 & 组
+text_info id: 653022	需使	需 & 使
+text_info id: 111849	需证	需 & 证
+text_info id: 673615	非中点	非 & 中点
+text_info id: 292048	非空	非 & 空
+text_info id: 640748	非负	非 & 负
+text_info id: 171032	非负数	非 & 负数
+text_info id: 760133	非零	非 & 零
+text_info id: 285886	非零 & 整数	非 & 零整 & 数
+text_info id: 163924	面积比	面积 & 比
+text_info id: 306650	面积过点	面积 & 过 & 点
+text_info id: 308691	韦达	韦 & 达
+text_info id: 308691	韦达定理	韦 & 达 & 定理
+text_info id: 639343	顶点	顶 & 点
+text_info id: 759540	顶点坐标	顶点 & 坐标
+text_info id: 285873	项为	项 & 为
+text_info id: 288993	项子列	项 & 子 & 列
+text_info id: 110208	项积	项 & 积
+text_info id: 748589	项起	项 & 起
+text_info id: 309042	顺序 & 数均	顺 & 序数 & 均
+text_info id: 674025	顺序排列	顺序 & 排列
+text_info id: 88645	顺时针	顺 & 时针
+text_info id: 161828	题中	题 & 中
+text_info id: 242180	题海	题 & 海
+text_info id: 292378	题设	题 & 设
+text_info id: 793563	额为	额 & 为
+text_info id: 288397	首项	首 & 项
+text_info id: 157491	骑摩托车	骑 & 摩托车
+text_info id: 157491	骑自行车	骑 & 自行车
+text_info id: 693623	高且	高 & 且
+text_info id: 287263	高为	高 & 为
+text_info id: 693623	高出	高 & 出
+text_info id: 674025	高斯	高 & 斯
+text_info id: 726721	高线	高 & 线
+text_info id: 690913	高长	高 & 长
+text_info id: 167810	过点	过 & 点
